@@ -1,0 +1,55 @@
+1. Mixing Solutions: A grocer mixes 2 kg of sugar at ₹15 per kg with 3 kg of sugar at ₹20 per kg. 
+What is the price per kg of the mixture?
+
+2. Diluting with Water: How many liters of water must be added to 40 
+liters of milk at ₹0.50 per liter to reduce the cost to ₹0.40 per liter?
+
+3. Two Varieties of Rice: A shopkeeper has two varieties of rice, one costing ₹10 per kg 
+and the other ₹15 per kg. In what ratio should he mix them to sell the resulting mixture at ₹12 per kg?
+
+4. Profit and Loss: A merchant has 50 kg of wheat. He sells part of it at a 10% profit and the rest 
+at a 5% loss. If he gains 7% on the whole, how much was sold at a 10% profit?
+
+5. Combining Liquids: A container has 80 liters of milk. From this,
+ 8 liters are taken out and replaced with water. This process is repeated twice. How much milk is left in the container?
+
+6. Alloys: In what proportion must gold at ₹3,200 per 10 grams be
+ mixed with silver at ₹1,200 per 10 grams to create an alloy worth ₹2,400 per 10 grams?
+
+7. Tea Blends: A tea merchant has two types of tea, one costing ₹100 
+per kg and the other ₹150 per kg. He wants to make a blend worth ₹120 per kg. In what ratio should he mix them?
+
+8. Alcohol Dilution: How many liters of water must be added to 60 liters 
+of a solution containing 15% alcohol to change the concentration to 10%?
+
+9. Weighted Average: A class has 50 students. The average weight of the boys
+ is 50 kg and the average weight of the girls is 40 kg. If the average weight of the entire class is 42 kg, find the number of boys.
+
+10. Percentage Change: A vessel contains a mixture of 32 liters. 
+8 liters are drawn off and replaced with water. If this operation is repeated twice, what is the quantity of the original liquid left in the vessel?
+
+tricky:
+1. Successive Replacement: A container has 10 liters of milk. 2 liters are removed and replaced with water.
+ This is repeated once more. What's the final quantity of milk in the container?
+
+2. Dishonest Dealer: A milkman mixes water with milk and sells the mixture at the cost price of milk.
+ He gains 20% in the process. In what ratio did he mix milk and water?
+
+3. Replacing a Part of Mixture: A vessel contains a mixture of milk and water in the ratio 5:3. 
+If 16 liters of the mixture are removed and replaced with 16 liters of water, the new ratio becomes 1:1. How much mixture did the vessel originally hold?
+
+4. Two Mixtures Combined: Two vessels contain milk and water in the ratios 2:3 and 4:1 
+respectively. In what ratio should quantities from these two vessels be mixed to obtain a new mixture with milk and water in the ratio 1:1?
+
+5. Solutions of Different Strengths: How many milliliters of a 90% acid solution must be mixed with 100 ml of a 30% acid solution to get a 50% acid solution?
+
+6. Multiple Replacements: A container has 64 liters of wine. 8 liters are drawn off and replaced with water. This process is repeated three times. What is the volume of wine left in the container?
+
+7. Mixing with a Target: A merchant has 100 kg of sugar, part of which he sells at a 7% profit and the rest at a 17% profit. He gains 10% on the whole. How much was sold at 17% profit?
+
+8. Alloys with Multiple Metals: Two alloys contain tin and iron in the ratios 1:2 and 2:3. If the two alloys are mixed in the ratio 3:4 (by weight), what will be the ratio of tin to iron in the resulting alloy?
+
+9. Combined Operations: A jar contains a mixture of two liquids A and B in the ratio 4:1. When 10 liters of the mixture are taken out and 10 liters of liquid B are added, the ratio becomes 2:3. How many liters of liquid A were initially in the jar?
+
+10. Varying Quantities: Three types of rice costing ₹12, ₹15, and ₹18 per kg are mixed in the ratio 2:3:4. What is the cost per kg of the mixed rice?
+

@@ -1,0 +1,62 @@
+1. Three Varieties of Tea: A tea seller mixes three varieties of tea costing ₹60/kg, ₹80/kg, and ₹120/kg. He mixes them in the ratio 1:2:3 by weight. If he sells the mixture at ₹100/kg, what is his profit or loss percentage?
+
+2. Milk and Water with Profit: A milkman professes to sell milk at its cost price. However, he mixes it with water and thereby gains 16.66% (or 1/6). What is the ratio of milk to water in the mixture?
+
+3. Replacing Part of a Solution: A container has 40 liters of a solution containing 25% alcohol. How many liters of this solution must be replaced by pure alcohol so that the resulting solution contains 50% alcohol?
+
+4. Combining Two Mixtures to Form a Third: Two vessels, A and B, contain mixtures of spirit and water. In vessel A, the ratio of spirit to water is 5:2, and in vessel B, it is 7:6. A new mixture is formed by taking quantities from A and B in the ratio 1:1. What is the ratio of spirit to water in the new mixture?
+
+5. Dilution to Achieve Target Percentage: How many kilograms of pure salt must be added to 30 kg of a 2% solution of salt and water to increase it to a 10% solution?
+
+6. Successive Removal and Replacement: From a cask containing 81 liters of pure wine, 9 liters are drawn out and replaced with water. This process is repeated twice more. What is the quantity of wine left in the cask now?
+
+7. Finding Initial Quantity after Adulteration: A dishonest shopkeeper mixes a certain quantity of water with 60 liters of pure milk. By selling the mixture at the cost price of milk, he makes a profit of 20%. What quantity of water did he mix?
+
+8. Mixing with Loss and Profit: A trader has 50 kg of pulses, part of which he sells at an 8% profit and the rest at an 18% profit. He gains 14% on the whole. What is the quantity sold at 18% profit?
+
+9. Alloy Proportions: An alloy contains zinc and copper in the ratio 5:8, and another alloy contains zinc and copper in the ratio 5:3. If equal amounts of both alloys are melted together, what will be the ratio of zinc to copper in the resulting alloy?
+
+10. Multi-step Dilution: A container has 100 liters of a chemical solution. 10 liters are taken out and replaced with water. Then, 20 liters of the mixture are taken out and replaced with water. Finally, 25 liters of the mixture are taken out and replaced with water. What is the approximate percentage of the chemical in the final solution?
+
+11. Ratio of Mixing for a Specific Price: In what ratio must a grocer mix two varieties of pulses costing ₹15 and ₹20 per kg respectively, so as to get a mixture worth ₹16.50 per kg?
+
+12. Finding Quantity of One Ingredient: A mixture of 70 liters of milk and water contains 10% water. How many liters of water must be added to make the water 25% in the new mixture?
+
+13. Profit by Selling at Cost Price (Adulteration): A vendor buys lemons at ₹25 per dozen and an equal number at ₹30 per dozen. He mixes them and sells them at ₹33 per dozen. What is his profit percentage? (This can be viewed as mixing two "cost prices" to get an average selling price).
+
+14. Complex Replacement Scenario: A vessel is full of a mixture of kerosene and petrol in which there is 20% kerosene. 10 liters are drawn off and then the vessel is filled with petrol. If the kerosene is now 15%, what is the capacity of the vessel?
+
+15. Mixing Three Items to Achieve Average: A shopkeeper mixes three types of rice: Type A at ₹40/kg, Type B at ₹50/kg, and Type C at ₹70/kg. He mixes them in such a way that the average cost of the mixture is ₹55/kg. If he uses 2 kg of Type A and 3 kg of Type B, how many kg of Type C must he use?
+
+16. Ratio Change After Addition: A mixture contains alcohol and water in the ratio 4:3. If 7 liters of water are added to the mixture, the ratio of alcohol to water becomes 3:4. Find the quantity of alcohol in the original mixture.
+
+17. Selling Parts at Different Profits/Losses: A man buys 100 kg of sugar. He sells 40 kg at a 10% profit. At what loss percentage must he sell the remaining sugar so as to make no profit and no loss on the whole transaction?
+
+18. Combining Solutions from Different Vessels: Vessel A contains a mixture of milk and water in the ratio 3:2. Vessel B contains a mixture of milk and water in the ratio 4:1. In what ratio should quantities be taken from vessel A and vessel B to form a mixture in which milk and water are in the ratio 7:3?
+
+19. Finding Original Volume after Multiple Operations: From a container full of pure milk, 20% is removed and replaced with water. This process is repeated one more time. If the container now holds 32 liters of milk, what was the original capacity of the container?
+
+20. Alloys with Specific Metal Percentages: Two types of brass contain copper and zinc. Type A brass contains 80% copper, and Type B brass contains 60% copper. In what ratio should Type A and Type B brass be mixed to obtain a new type of brass containing 75% copper?
+
+
+Answer:
+Final Answer: 100/29 % Profit (or approx 3.45% Profit)
+Final Answer: 6:1 (Milk:Water)
+Final Answer: 40/3 Liters (or approx 13.33 Liters)
+Final Answer: 57:34 (Spirit:Water)
+Final Answer: 8/3 kg (or approx 2.67 kg)
+Final Answer: 512/9 Liters (or approx 56.89 Liters)
+Final Answer: 12 Liters
+Final Answer: 30 kg
+Final Answer: 105:103 (Zinc:Copper)
+Final Answer: 54%
+Final Answer: 7:3
+Final Answer: 14 Liters
+Final Answer: 20%
+Final Answer: 40 Liters
+Final Answer: 3 kg
+Final Answer: 12 Liters
+Final Answer: 20/3 % Loss (or approx 6.67% Loss)
+Final Answer: 1:1
+Final Answer: 50 Liters
+Final Answer: 3:1 (Type A : Type B)

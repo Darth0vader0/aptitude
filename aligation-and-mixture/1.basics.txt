@@ -1,0 +1,82 @@
+Concept:
+
+Alligation and Mixture is a concept used to determine the ratio in which two or 
+more ingredients at different prices must be mixed to produce a mixture at a
+desired price. It's essentially a variation of the concept of averages.
+
+Key Terms:
+
+Mixture: The combination of two or more ingredients.
+Ingredient: A single item being mixed.
+Mean Price: The average price of the mixture.
+Cost Price: The price of a single unit of an ingredient.
+
+Formulas:
+
+There are two main rules in Alligation:
+
+1. Alligation Rule: This is often represented visually using a diagram
+
+Ingredient 1 (Cost Price 1)      Ingredient 2 (Cost Price 2)
+                         \       /
+                           Mean Price
+                         /       \
+    (Mean Price - Cost Price 2)  (Cost Price 1 - Mean Price)  
+
+The ratio in which the ingredients should be mixed
+ is (Mean Price - Cost Price 2) : (Cost Price 1 - Mean Price).
+
+Important Note: This rule works when one ingredient is 
+cheaper than the mean price and the other is more expensive.
+
+
+2. Mixture Rule (for finding the quantity of an ingredient):
+
+if you know the quantities of some ingredients and the desired mean price, you can find the quantity of the missing ingredient:
+
+Let x be the quantity of ingredient 1, y be the quantity of ingredient 2, and so on.
+Let p1, p2, ... be their respective cost prices.
+Let pm be the desired mean price of the mixture.
+Then, the total cost of the mixture equals the sum of the costs of individual ingredients:
+
+(x * p1) + (y * p2) + ... = (x + y + ...) * pm
+
+Example 1 (Alligation Rule):
+
+In what ratio must rice at ₹9.30 per kg be mixed with rice at ₹10.80 per kg so that the mixture is worth ₹10 per kg?
+
+Cost Price 1 (cheaper rice) = ₹9.30
+Cost Price 2 (more expensive rice) = ₹10.80
+Mean Price = ₹10
+Applying the alligation rule:
+
+9.30                     10.80
+     \                 /
+             10
+     /                 \
+(10 - 10.80) = 0.80     (9.30 - 10) = 0.70 
+
+Ratio = 0.80 : 0.70 = 8 : 7
+
+Therefore, the rice must be mixed in the ratio 8:7.
+
+Example 2 (Mixture Rule):
+
+A merchant has 50 kg of wheat, part of which he sells at 10% profit and the rest at 5% loss. 
+If he has a 7% profit on the whole, how much was sold at 10% profit?
+
+Let x be the quantity sold at 10% profit, and (50 - x) be the quantity sold at 5% loss.
+
+Effective selling price per kg (7% profit) = 1 + 0.07 = 1.07 times the cost price. 
+We can assume the cost price per kg is 1 for simplicity since we are only interested in 
+the ratio.
+Setting up the equation:
+
+1.10 * x + 0.95 * (50 - x) = 1.07 * 50
+
+1.10x + 47.5 - 0.95x = 53.5
+0.15x = 6
+x = 40
+
+Therefore, the quantity sold at 10% profit is 4
+So, 40 kg of wheat was sold at a 10% profit.

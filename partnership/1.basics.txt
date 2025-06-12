@@ -1,0 +1,14 @@
+1. Types of Partnership
+        Simple Partnership: Partners invest capital for the same period.
+        Compound Partnership: Partners invest capital for different periods.
+2. ratio of division of profits
+    when time is same:
+    Profit Share = Investment of Partner : Investment of Other Partner(s)
+
+    when time is different
+    Profit Share = (Investment × Time) of Partner : (Investment × Time) of Other Partner(s)
+
+3. Working and Sleeping Partners
+        Working Partner: Manages the business, may get extra salary/commission.
+        Sleeping Partner: Only invests money, does not manage the business.
+

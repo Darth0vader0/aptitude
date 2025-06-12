@@ -1,0 +1,61 @@
+1. Repeated Replacement with Varying Amounts: A cask initially contains 32 liters of wine. 8 liters are drawn out and replaced with water. Subsequently, 6 liters of the mixture are removed and replaced with water. Finally, 4 liters of the mixture are removed and replaced with water. What quantity of wine is left in the cask?
+
+2. Mixture with Three Ingredients: Three varieties of wheat costing ₹15, ₹18, and ₹20 per kg are mixed in the ratio 2:3:5. If the mixture is sold at ₹22 per kg, find the profit percentage.
+
+3. Dishonest Milkman with Replacement: A milkman mixes some water with milk and sells the mixture at the same price as pure milk. He gains 25%. If he replaces 1/4 of the mixture with water again, what will be his new profit percentage?
+
+4. Two Alloys Mixed: Two alloys, A and B, are made of copper and tin. Alloy A contains copper and tin in the ratio 2:3, and alloy B contains them in the ratio 7:5. If equal amounts of the two alloys are melted and mixed to form a new alloy, what will be the ratio of copper and tin in the new alloy?
+
+5. Three Vessels Combined: Three vessels of equal capacity contain a mixture of milk and water. The ratios of milk to water are 5:2, 6:1, and 3:2 respectively. If the contents of all three vessels are mixed, what will be the ratio of milk to water in the final mixture?
+
+6. Replacement with a Different Liquid: A container holds 50 liters of liquid X. 5 liters are taken out and replaced with liquid Y. This operation is repeated 4 times. Find the approximate quantity of liquid X remaining in the container.
+
+7. Finding Original Quantities: A jar contains a mixture of two liquids A and B in the ratio 3:1. When 24 liters of the mixture are removed and 9 liters of liquid B are added, the ratio becomes 3:2. Find the original quantity of liquid A in the jar.
+
+8. Mixing to Achieve a Specific Concentration: A solution contains 60% acid and the rest water. Another solution contains 30% acid. How many parts of the first solution must be mixed with parts of the second to make a solution containing 40% acid?
+
+9. Variable Replacements: From a container of milk, a shopkeeper removes 10 liters and replaces it with water. He repeats this process, each time removing 10 liters of the mixture. After three such operations, the quantity of milk left is 51.2 liters. What was the initial quantity of milk?
+
+10. Mixture with Different Profit Margins: A merchant has 60 kg of rice. He sells some at a 15% profit and the rest at a 9% loss. On the whole, he makes a profit of 6%. How much rice was sold at a 9% loss?
+
+11. Successive Dilutions with Different Liquids: A vessel contains 20 liters of liquid A. 4 liters are replaced with liquid B, then 5 liters of the mixture are replaced with liquid C. Find the final ratio of liquids A, B, and C.
+
+12. Multi-Step Mixture Problem: A can contains a mixture of two liquids A and B in the ratio 7:5. When 9 liters of the mixture are drawn off and the can is filled with B, the ratio becomes 7:9. How many liters does the can hold?
+
+13. Mixing of Sugars and Proportions: Two types of sugar, costing ₹18 and ₹24 per kg, are mixed. The mixture is sold at ₹22 per kg, resulting in a profit of 10%. Find the ratio in which the sugars were mixed.
+
+14. Alloy Composition with Multiple Replacements: An alloy initially contains copper and zinc in the ratio 3:2. A portion of the alloy is removed and replaced with an alloy that is 60% copper. This process is repeated twice more with the same replacement amount each time. If the final alloy is approximately 50% copper, estimate the fraction of the alloy replaced each time.
+
+15. Mixture with Removal and Addition of Both Components: A container has a mixture of liquids X and Y in the ratio 5:3. If 16 liters of the mixture are removed and replaced by 5 liters of X and 11 liters of Y, the new ratio becomes 11:7. How many liters did the container hold initially?
+
+16. Profit Calculation with Changing Mixture Ratio: A shopkeeper has two types of tea, costing ₹240/kg and ₹300/kg. He mixes them in a certain ratio and sells the mixture at ₹320/kg, making a profit of 20%. Determine the ratio in which he mixed the two types of tea.
+
+17. Varying Removal and Addition in a Mixture: A tank contains a mixture of milk and water in the ratio 3:2. 20 liters of the mixture are removed, and then 10 liters of milk and 10 liters of water are added. If the new ratio is 4:3, find the original quantity of the mixture.
+
+18. Mixture of Solutions with Different Concentrations and Replacements: You have 100 ml of a solution that is 80% acid. You remove 20 ml and replace it with a solution that is 50% acid. Then, you remove 30 ml of the new mixture and replace it with a solution that is 20% acid. What is the approximate acid concentration in the final solution?
+
+19. Finding Original Quantities from Multiple Replacements: A container initially has 'x' liters of liquid A. 'y' liters are removed and replaced with liquid B. This process is repeated 'n' times. If the final quantity of liquid A is 'z' liters, derive a formula for the initial quantity 'x' in terms of y, z, and n. Apply this formula to the case where z = 16, y = 8, and n = 2.
+
+20. Complex Alloy Problem: Three alloys, containing metals X, Y, and Z in different proportions, are mixed. Alloy 1 has X:Y:Z as 1:2:1, Alloy 2 has 2:1:3, and Alloy 3 has 3:2:2. The alloys are mixed in the ratio p:q:r. Find the values of p, q, and r so that the resulting alloy has X, Y, and Z in equal proportions. (Hint: Set up equations based on the fractions of each metal and solve for p, q, and r).
+
+Answers:
+Final Answer: 17.1 liters
+Final Answer: 20.22% (approx) or 182/9 %
+Final Answer: 56.25%
+Final Answer: 53:67 (Copper:Tin)
+Final Answer: 191:79 (Milk:Water)
+Final Answer: 32.805 liters (or approx 32.81 liters)
+Final Answer: 27 liters
+Final Answer: 1:2 (First solution : Second solution)
+Final Answer: 100 liters
+Final Answer: 25 kg
+Final Answer: A:B:C = 12:4:5
+Final Answer: 21 liters
+Final Answer: 2:1
+Final Answer: 1/3 (approx, as this often involves solving a cubic or higher-order equation if approached precisely, or iterative approximation)
+Final Answer: 40 liters
+Final Answer: 2:3 (Tea at ₹240/kg : Tea at ₹300/kg)
+Final Answer: 100 liters
+Final Answer: 53.3% (approx)
+Final Answer: Formula: x = z / ((x-y)/x)^n which simplifies to x = z * (x/(x-y))^n. For the given values (z=16, y=8, n=2), if we interpret the formula as z = x * ((x-y)/x)^n, then 16 = x * ((x-8)/x)^2. Solving this gives x = 32 liters.
+Final Answer: This requires solving a system of linear equations. One possible solution (ratios can be scaled) is p:q:r = 4:1:6 (or any multiple).

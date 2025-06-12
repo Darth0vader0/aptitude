@@ -1,0 +1,61 @@
+11. A and B start a business with ₹10,000 and ₹15,000. After 3 months, C joins with ₹20,000. After 6 months, A withdraws half his capital. Profit after 1 year = ₹12,600.
+    Final shares: A = ₹3,600, B = ₹4,500, C = ₹4,500
+
+12. A invests ₹8,000, B invests ₹12,000. After 4 months, A adds ₹4,000 more, and after 8 months, B withdraws ₹2,000. Profit after 1 year = ₹9,600.
+    Final shares: A = ₹4,800, B = ₹4,800
+
+13. A, B, and C invest ₹5,000, ₹7,000, and ₹9,000. After 3 months, A doubles his investment, B withdraws half after 6 months, and C adds ₹3,000 after 9 months. Profit after 1 year = ₹15,000.
+    Final shares: A = ₹5,625, B = ₹4,375, C = ₹5,000
+
+14. A and B invest ₹12,000 and ₹18,000. After 5 months, A withdraws ₹4,000 and B adds ₹6,000. Profit after 1 year = ₹8,400.
+    Final shares: A = ₹3,000, B = ₹5,400
+
+15. A starts with ₹20,000. After 4 months, B joins with ₹30,000. After 8 months, C joins with ₹40,000. Profit after 1 year = ₹24,000.
+    Final shares: A = ₹6,000, B = ₹8,000, C = ₹10,000
+
+16. A and B invest ₹10,000 and ₹20,000. After 6 months, A adds ₹10,000 and B withdraws ₹5,000. Profit after 1 year = ₹14,400.
+    Final shares: A = ₹6,400, B = ₹8,000
+
+17. A, B, and C invest ₹6,000, ₹8,000, and ₹10,000. After 4 months, A and C both add ₹2,000 each, B withdraws ₹2,000 after 8 months. Profit after 1 year = ₹12,000.
+    Final shares: A = ₹3,200, B = ₹3,600, C = ₹5,200
+
+18. A invests ₹15,000. After 3 months, B joins with ₹10,000. After 6 months, C joins with ₹20,000. After 9 months, A withdraws ₹5,000. Profit after 1 year = ₹18,000.
+    Final shares: A = ₹7,000, B = ₹4,000, C = ₹7,000
+
+19. A and B start with ₹8,000 and ₹12,000. After 2 months, A adds ₹4,000, B withdraws 
+₹2,000 after 7 months. Profit after 1 year = ₹10,800.
+    Final shares: A = ₹5,400, B = ₹5,400
+
+20. A, B, and C invest ₹10,000, ₹15,000, and ₹20,000. After 5 months, A withdraws ₹5,000, B adds ₹5,000, and C withdraws ₹10,000 after 10 months. Profit after 1 year = ₹21,000.
+    Final shares: A = ₹5,000, B = ₹7,000, C = ₹9,000
+
+21. A invests ₹18,000. After 4 months, B joins with ₹12,000. After 8 months, C joins with ₹24,000. Profit after 1 year = ₹30,000.
+    Final shares: A = ₹10,000, B = ₹7,000, C = ₹13,000
+
+22. A and B start with ₹16,000 and ₹24,000. After 6 months, A withdraws ₹6,000 and B adds ₹6,000. Profit after 1 year = ₹18,000.
+    Final shares: A = ₹6,000, B = ₹12,000
+
+23. A, B, and C invest ₹10,000, ₹15,000, and ₹20,000. After 3 months, A adds ₹5,000, B withdraws ₹5,000 after 9 months, C adds ₹10,000 after 6 months. Profit after 1 year = ₹25,000.
+    Final shares: A = ₹7,500, B = ₹6,000, C = ₹11,500
+
+24. A invests ₹14,000. After 5 months, B joins with ₹21,000. After 9 months, C joins with ₹28,000. Profit after 1 year = ₹35,000.
+    Final shares: A = ₹10,000, B = ₹12,000, C = ₹13,000
+
+25. A and B start with ₹20,000 and ₹30,000. After 4 months, A adds ₹10,000, B withdraws ₹10,000 after 8 months. Profit after 1 year = ₹22,000.
+    Final shares: A = ₹9,000, B = ₹13,000
+
+26. A, B, and C invest ₹8,000, ₹12,000, and ₹16,000. After 6 months, A withdraws ₹4,000, B adds ₹4,000, C withdraws ₹8,000 after 9 months. Profit after 1 year = ₹20,000.
+    Final shares: A = ₹4,000, B = ₹8,000, C = ₹8,000
+
+27. A invests ₹25,000. After 2 months, B joins with ₹15,000. After 7 months, C joins with ₹20,000. Profit after 1 year = ₹28,000.
+    Final shares: A = ₹12,000, B = ₹7,000, C = ₹9,000
+
+28. A and B start with ₹12,000 and ₹18,000. After 5 months, A adds ₹6,000, B withdraws 
+₹6,000 after 10 months. Profit after 1 year = ₹16,000.
+    Final shares: A = ₹7,000, B = ₹9,000
+
+29. A, B, and C invest ₹9,000, ₹12,000, and ₹15,000. After 4 months, A withdraws ₹3,000, B adds ₹3,000, C withdraws ₹5,000 after 8 months. Profit after 1 year = ₹19,000.
+    Final shares: A = ₹5,000, B = ₹7,000, C = ₹7,000
+
+30. A invests ₹30,000. After 3 months, B joins with ₹20,000. After 6 months, C joins with ₹25,000. After 9 months, A withdraws ₹10,000. Profit after 1 year = ₹36,000.
+    Final shares: A = ₹13,000, B = ₹9,000, C = ₹14,000
