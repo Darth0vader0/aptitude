@@ -1,0 +1,129 @@
+ 1. Basic Profit/Loss Calculations
+Bought for ₹400, sold for ₹460. Find profit%.
+
+Ans: 15%
+
+Loss of ₹80 on article costing ₹800.
+
+Ans: 10% loss
+
+Selling price is ₹550, profit is 10%. Find cost price.
+
+Ans: ₹500
+
+ 2. Successive Profit/Loss
+Two successive profits of 10% and 20%.
+
+Ans: 32% profit
+
+Successive loss of 20% and 10%.
+
+Ans: 28% loss
+
+Gain of 25%, then loss of 20%. Overall?
+
+Ans: 0% (no profit no loss)
+
+ 3. Discounts
+20% discount on ₹500.
+
+Ans: ₹400
+
+Two successive discounts: 20% and 10% on ₹1000.
+
+Ans: ₹720
+
+Single equivalent discount for 25% and 20%.
+
+Ans: 40%
+
+ 4. Marked Price Problems
+Marked price ₹1200, discount 25%, profit 10%. Find CP.
+
+Ans: ₹810
+
+MP = ₹1000, SP = ₹850, gain = 13%. Find CP.
+
+Ans: ₹752.21
+
+Item marked ₹600, sold at 10% discount, still gained 20%.
+
+Ans: ₹400 (CP)
+
+ 5. False Weights
+Shopkeeper sells 950g but charges for 1kg.
+
+Ans: 5.26% gain
+
+Uses 800g weight instead of 1kg.
+
+Ans: 25% gain
+
+Uses 950g weight, gives 10% discount on MP = ₹100.
+
+Ans: 4.74% gain
+
+ 6. Overall Gain/Loss in Mixed Sales
+2/3 goods at 20% profit, 1/3 at 10% loss.
+
+Ans: 10% overall profit
+
+3 items at ₹500 each, gain of 20%, 0%, and loss of 10%.
+
+Ans: 3.33% overall gain
+
+Half sold at 25% profit, half at 25% loss.
+
+Ans: 0% (no loss, no gain)
+
+ 7. Multiple Articles Transaction
+Bought 10 for ₹100, sold 8 for ₹100.
+
+Ans: 25% profit
+
+Bought 12 pens for ₹60, sold 10 for ₹60.
+
+Ans: 20% profit
+
+Bought 6 items for ₹120, sold at ₹25 each.
+
+Ans: ₹30 loss
+
+ 8. Profit/Loss on SP
+Loss is 10% of SP = ₹180. Find CP.
+
+Ans: ₹200
+
+Profit is 20% of SP = ₹240. Find CP.
+
+Ans: ₹200
+
+Loss 25% on SP ₹300.
+
+Ans: ₹400
+
+ 9. Profit Sharing Style
+A & B invested ₹4000 & ₹6000, profit is ₹2000. A’s share?
+
+Ans: ₹800
+
+P invested ₹8000, Q ₹4000 after 6 months. Profit ₹6000.
+
+Ans: P = ₹4000, Q = ₹2000
+
+X & Y profit sharing 2:3, total ₹1500.
+
+Ans: X = ₹600
+
+ 10. Price/Profit Change Scenarios
+CP increased by 20%, profit% unchanged. SP?
+
+Ans: Increases by 20%
+
+SP unchanged, CP increases by 25%. What happens to profit%?
+
+Ans: Decreases
+
+Profit 20%, then CP increased by 10%. New profit%?
+
+Ans: 9.09%

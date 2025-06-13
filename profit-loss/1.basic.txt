@@ -1,0 +1,55 @@
+1. Basic Terms & Formulas
+Cost Price (CP)
+
+Selling Price (SP)
+
+Profit = SP − CP
+
+Loss = CP − SP
+
+Profit% = (Profit/CP) × 100
+
+Loss% = (Loss/CP) × 100
+
+2. Successive Profit & Loss
+When two gains/losses happen one after another.
+
+Formula:
+
+Net % = A + B + (AB/100)
+(Gain as +, Loss as −)
+
+3. Discounts
+Single Discount
+
+Multiple/Successive Discounts
+
+Equivalent Discount concept
+
+Marked Price, Selling Price after Discount
+
+4. Marked Price (List Price)
+How profit/loss is calculated when item is sold at discount but above/below CP.
+
+5. False Weights
+Seller uses less weight than promised (e.g., sells 950g instead of 1kg but charges full price).
+
+Used in tricky placement Qs.
+
+6. Overall Gain or Loss in Multiple Transactions
+Different profit/loss on multiple parts (e.g., 2/3 sold at 20% gain, rest at 10% loss)
+
+7. Buying & Selling Multiple Articles
+e.g., Bought 12 for ₹10, sold 10 for ₹12 — find gain or loss
+
+8. Profit & Loss on SP Instead of CP
+% is given on SP instead of CP — this reverses formulas:
+
+CP = (100 / (100 + gain%)) × SP
+CP = (100 / (100 − loss%)) × SP
+
+9. Investment Based (Partnership-style Profit Problems)
+Not always in this topic, but companies sometimes mix profit-sharing logic.
+
+10. Price Change Affecting Profit %
+If CP or SP changes by a %, what happens to profit?

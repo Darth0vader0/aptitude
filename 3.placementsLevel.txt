@@ -1,0 +1,90 @@
+1. A trader marks his goods 60% above cost price and allows two successive discounts of 20% and 10%. If his profit is ₹180, find the cost price.
+
+2. A man sells two articles for ₹800 each. On one he gains 25% and on the other he loses 25%. Find the overall profit or loss percent.
+
+3. A shopkeeper sells an article at a loss of 15%. If he had sold it for ₹90 more, he would have gained 10%. Find the cost price.
+
+4. A dealer buys an article at a discount of 25% on the marked price. He marks it 30% above the marked price and allows a discount of 15%. Find his profit percent.
+
+5. A person sells two watches for ₹1500 each. On one he gains 30% and on the other he loses 30%. Find the overall profit or loss percent.
+
+6. A shopkeeper sells an article at a profit of 25%. If he had bought it at 20% less and sold it for ₹50 more, his profit would have been 45%. Find the cost price.
+
+7. A man sells two articles at ₹700 each. On one he gains x% and on the other he loses x%. Find the value of x if he incurs a loss of ₹98 in total.
+
+8. A trader marks his goods 55% above cost price and allows a discount of 15%. If his profit is ₹220, find the cost price.
+
+9. A man sells an article at a profit of 18%. If he had sold it for ₹72 more, his profit would have been 30%. Find the cost price.
+
+10. A shopkeeper sells an article at a loss of 14%. If he had sold it for ₹84 more, he would have gained 7%. Find the cost price.
+
+11. A dealer marks his goods 70% above cost price and allows a discount of 28%. If his profit is ₹350, find the cost price.
+
+12. A person sells two articles for ₹900 each. On one he gains 35% and on the other he loses 35%. Find the overall profit or loss percent.
+
+13. A trader sells an article at a profit of 22%. If he had bought it at 22% less and sold it at ₹44 less, his profit would have been 11%. Find the cost price.
+
+14. A man sells two articles at ₹600 each. On one he gains x% and on the other he loses x%. If he incurs a loss of ₹72 in total, find the value of x.
+
+15. A shopkeeper marks his goods 80% above cost price and allows a discount of 35%. If his profit is ₹320, find the cost price.
+
+16. A man sells an article at a profit of 20%. If he had sold it for ₹60 more, his profit would have been 30%. Find the cost price.
+
+17. A dealer marks his goods 90% above cost price and allows a discount of 40%. If his profit is ₹360, find the cost price.
+
+18. A person sells two articles for ₹1000 each. On one he gains 40% and on the other he loses 40%. Find the overall profit or loss percent.
+
+19. A trader sells an article at a profit of 28%. If he had bought it at 28% less and sold it at ₹56 less, his profit would have been 14%. Find the cost price.
+
+20. A man sells two articles at ₹800 each. On one he gains x% and on the other he loses x%. If he incurs a loss of ₹128 in total, find the value of x.
+
+21. A shopkeeper marks his goods 100% above cost price and allows a discount of 50%. If his profit is ₹500, find the cost price.
+
+22. A man sells an article at a profit of 24%. If he had sold it for ₹72 more, his profit would have been 36%. Find the cost price.
+
+23. A dealer marks his goods 120% above cost price and allows a discount of 45%. If his profit is ₹480, find the cost price.
+
+24. A person sells two articles for ₹1200 each. On one he gains 60% and on the other he loses 60%. Find the overall profit or loss percent.
+
+25. A trader sells an article at a profit of 32%. If he had bought it at 32% less and sold it at ₹64 less, his profit would have been 16%. Find the cost price.
+
+26. A man sells two articles at ₹900 each. On one he gains x% and on the other he loses x%. If he incurs a loss of ₹162 in total, find the value of x.
+
+27. A shopkeeper marks his goods 150% above cost price and allows a discount of 60%. If his profit is ₹600, find the cost price.
+
+28. A man sells an article at a profit of 27%. If he had sold it for ₹81 more, his profit would have been 36%. Find the cost price.
+
+29. A dealer marks his goods 200% above cost price and allows a discount of 66.66%. If his profit is ₹800, find the cost price.
+
+30. A person sells two articles for ₹1500 each. On one he gains 50% and on the other he loses 50%. Find the overall profit or loss percent.
+
+1. ans= ₹1,000  
+2. ans= 6.25% loss  
+3. ans= ₹600  
+4. ans= 16.25% profit  
+5. ans= 11.11% loss  
+6. ans= ₹250  
+7. ans= 14  
+8. ans= ₹400  
+9. ans= ₹600  
+10. ans= ₹700  
+11. ans= ₹500  
+12. ans= 12.25% loss  
+13. ans= ₹200  
+14. ans= 12  
+15. ans= ₹400  
+16. ans= ₹600  
+17. ans= ₹600  
+18. ans= 16% loss  
+19. ans= ₹200  
+20. ans= 16  
+21. ans= ₹500  
+22. ans= ₹600  
+23. ans= ₹400  
+24. ans= 36% loss  
+25. ans= ₹200  
+26. ans= 18  
+27. ans= ₹400  
+28. ans= ₹600  
+29. ans= ₹400  
+30. ans= 33.33% loss  
