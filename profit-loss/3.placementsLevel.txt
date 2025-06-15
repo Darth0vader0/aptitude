@@ -58,33 +58,3 @@
 
 30. A person sells two articles for ₹1500 each. On one he gains 50% and on the other he loses 50%. Find the overall profit or loss percent.
 
-1. ans= ₹1,000  
-2. ans= 6.25% loss  
-3. ans= ₹600  
-4. ans= 16.25% profit  
-5. ans= 11.11% loss  
-6. ans= ₹250  
-7. ans= 14  
-8. ans= ₹400  
-9. ans= ₹600  
-10. ans= ₹700  
-11. ans= ₹500  
-12. ans= 12.25% loss  
-13. ans= ₹200  
-14. ans= 12  
-15. ans= ₹400  
-16. ans= ₹600  
-17. ans= ₹600  
-18. ans= 16% loss  
-19. ans= ₹200  
-20. ans= 16  
-21. ans= ₹500  
-22. ans= ₹600  
-23. ans= ₹400  
-24. ans= 36% loss  
-25. ans= ₹200  
-26. ans= 18  
-27. ans= ₹400  
-28. ans= ₹600  
-29. ans= ₹400  
-30. ans= 33.33% loss  

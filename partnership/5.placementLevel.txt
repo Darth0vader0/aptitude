@@ -1,59 +1,57 @@
 31. A and B share profit in the ratio 3:2. If A invested ₹12,000 for 12 months, for how many months did B invest ₹8,000?
-    Final answer: 9 months
+  
 
 32. A and B invest for 1 year. A's investment is twice B's. If B's share of profit is ₹4,000 out of ₹12,000, what was A's investment?
-    Final answer: ₹24,000
+ 
 
 33. A and B invest ₹x and ₹y for 8 and 12 months respectively. If the profit is divided in the ratio 2:3, and x = ₹6,000, find y.
-    Final answer: ₹3,000
+
 
 34. A and B invest in the ratio 5:7. After 6 months, A withdraws half his capital. At the end of the year, profits are equal. For how many months did B invest?
-    Final answer: 8 months
+
 
 35. A and B invest ₹10,000 and ₹15,000. After 4 months, A adds ₹5,000 more. At the end of the year, their profits are equal. For how many months did B invest?
-    Final answer: 8 months
+
 
 36. A and B invest for 1 year. A invests ₹x, B invests ₹y. If A's share is 60% of the profit and B's is 40%, and y = ₹8,000, find x.
-    Final answer: ₹12,000
+
 
 37. A and B invest ₹12,000 and ₹x for 6 and 12 months. If profits are shared equally, find x.
-    Final answer: ₹6,000
+
 
 38. A and B invest ₹10,000 and ₹15,000 for 12 months. C joins after 6 months with ₹y. If C gets 1/4th of the profit, find y.
-    Final answer: ₹20,000
+    
 
 39. A and B invest for 1 year. A invests ₹x, B invests ₹y. If A's profit is 1.5 times B's and y = ₹8,000, find x.
-    Final answer: ₹12,000
+    
 
 40. A and B invest ₹5,000 and ₹x for 12 and 8 months. If profits are shared in the ratio 3:2, find x.
-    Final answer: ₹5,000
+
 
 41. A, B, and C start a business. A invests ₹20,000 for 12 months, B invests ₹30,000 for 8 months, and C invests ₹x for 6 months. If C gets 1/5th of the total profit, find x.
-    Final answer: ₹20,000
+    
 
 42. A and B invest in the ratio 4:5 for 1 year. After 6 months, C joins with ₹15,000. If at the end of the year, C's share is 1/6th of the profit, find the total investment of A and B together.
-    Final answer: ₹36,000
+    
 
 43. A and B invest ₹x and ₹y for 12 months. If A's profit is 25% more than B's and y = ₹16,000, find x.
-    Final answer: ₹20,000
+    
 
 44. A and B invest ₹12,000 and ₹18,000 for 1 year. After 4 months, A withdraws ₹4,000 and B adds ₹6,000. If the profit is ₹15,000, what is B's share?
-    Final answer: ₹9,000
+
 
 45. A, B, and C invest ₹10,000, ₹15,000, and ₹20,000. After 6 months, A adds ₹5,000, B withdraws ₹5,000, and C adds ₹10,000. If the profit is ₹24,000, what is C's share?
-    Final answer: ₹10,000
+    
 
 46. A and B invest for 1 year. A invests ₹x, B invests ₹y. If A's profit is 2/3rd of the total profit and y = ₹9,000, find x.
-    Final answer: ₹18,000
+    
 
 47. A and B invest ₹8,000 and ₹12,000 for 1 year. After 3 months, A adds ₹4,000 and B withdraws ₹2,000. If the profit is ₹14,000, what is A's share?
-    Final answer: ₹7,500
+
 
 48. A, B, and C invest in the ratio 2:3:5 for 1 year. If the total profit is ₹20,000 and C's share is ₹10,000, what is the total investment?
-    Final answer: ₹40,000
+    
 
 49. A and B invest ₹10,000 and ₹x for 12 and 9 months. If profits are shared in the ratio 4:3, find x.
-    Final answer: ₹10,000
-
+    
 50. A and B invest ₹15,000 and ₹20,000 for 1 year. After 6 months, A withdraws ₹5,000 and B adds ₹5,000. If the profit is ₹18,000, what is A's share?
-    Final answer: ₹7,000

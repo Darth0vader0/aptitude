@@ -57,34 +57,33 @@
 29. A dealer marks his goods 150% above cost price and allows a discount of 60%. If his profit is ₹600, find the cost price.
 
 30. A person sells two articles for ₹1200 each. On one he gains 60% and on the other he loses 60%. Find the overall profit or
-
-1. ans= ₹1,200  
-2. ans= 4% loss  
-3. ans= ₹400  
-4. ans= 32.5% profit  
-5. ans= 6.25% loss  
-6. ans= ₹200  
-7. ans= 10  
-8. ans= ₹320  
-9. ans= ₹600  
-10. ans= ₹750  
-11. ans= ₹500  
-12. ans= 9% loss  
-13. ans= ₹200  
-14. ans= 8  
-15. ans= ₹400  
-16. ans= ₹600  
-17. ans= ₹600  
-18. ans= 16% loss  
-19. ans= ₹200  
-20. ans= 14  
-21. ans= ₹400  
-22. ans= ₹600  
-23. ans= ₹500  
-24. ans= 25% loss  
-25. ans= ₹400  
-26. ans= 12  
-27. ans= ₹400  
-28. ans= ₹600  
-29. ans= ₹400  
-30. ans= 36% loss  
+1. Ans = ₹600  
+2. Ans = Loss 4%  
+3. Ans = ₹400  
+4. Ans = Profit 12.5%  
+5. Ans = Loss 6.25%  
+6. Ans = ₹500  
+7. Ans = x = 10  
+8. Ans = ₹800  
+9. Ans = ₹600  
+10. Ans = ₹750  
+11. Ans = ₹1,000  
+12. Ans = Loss 9%  
+13. Ans = ₹500  
+14. Ans = x = 20  
+15. Ans = ₹800  
+16. Ans = ₹600  
+17. Ans = ₹1,000  
+18. Ans = Loss 16%  
+19. Ans = ₹400  
+20. Ans = x = 20  
+21. Ans = ₹800  
+22. Ans = ₹600  
+23. Ans = ₹1,000  
+24. Ans = Loss 25%  
+25. Ans = ₹400  
+26. Ans = x = 20  
+27. Ans = ₹800  
+28. Ans = ₹600  
+//29. Ans = something inconsistent so can not be solved//
+30. Ans = Loss 36%
