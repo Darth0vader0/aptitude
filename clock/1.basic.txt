@@ -1,0 +1,159 @@
+CLOCK APTITUDE - BASIC CONCEPTS AND FORMULAS
+
+-----------------------------------------------
+1. Basic Understanding of a Clock
+-----------------------------------------------
+- A clock has 12 hours marked on its dial.
+- The minute hand completes a full circle (360 degrees) in 60 minutes.
+- The hour hand completes a full circle (360 degrees) in 12 hours (or 720 minutes).
+
+-----------------------------------------------
+2. Movements of Clock Hands
+-----------------------------------------------
+Minute Hand:
+- Moves 360° in 60 minutes => 6° per minute.
+
+Hour Hand:
+- Moves 360° in 12 hours => 0.5° per minute.
+
+-----------------------------------------------
+3. Angle Between Hour and Minute Hands
+-----------------------------------------------
+Formula:
+    Angle = |(30 × Hours) - (11/2 × Minutes)|
+
+- This formula gives the smaller angle between the two hands.
+- Hours should be in 12-hour format.
+- Use absolute value to ensure a positive angle.
+
+-----------------------------------------------
+4. Right Angle Between the Hands (90 Degrees)
+-----------------------------------------------
+Condition:
+    |(30 × H) - (11/2 × M)| = 90
+
+- Hands are at 90° twice every hour.
+- Solve the above equation to find minutes.
+
+-----------------------------------------------
+5. Straight Line (180 Degrees) Between Hands
+-----------------------------------------------
+Condition:
+    |(30 × H) - (11/2 × M)| = 180
+
+- Hands form a straight line twice every hour.
+- Solve the equation to find time.
+
+-----------------------------------------------
+6. Coincidence of Hands (Both Hands Overlap)
+-----------------------------------------------
+- The hands coincide (overlap) every 65 5/11 minutes.
+- In 12 hours, hands coincide 11 times.
+
+Time of first coincidence:
+    Minute = (60/11) × Hour
+
+Example:
+    At 3 o’clock → Time = (60/11) × 3 = 180/11 minutes = 16 4/11 minutes past 3.
+
+-----------------------------------------------
+7. When Hands are Opposite (180° Apart)
+-----------------------------------------------
+- Happens every 65 5/11 minutes after they overlap.
+- Total 11 such instances in 12 hours.
+
+-----------------------------------------------
+8. When Hands are at 90° (Right Angle)
+-----------------------------------------------
+- Happens every 32 8/11 minutes after one another.
+- Total 22 times in 12 hours.
+
+-----------------------------------------------
+9. When Hands are 0° (Overlap) or 180° (Straight Line)
+-----------------------------------------------
+- Use angle = 0 or 180 in the base formula:
+    Angle = |(30 × H) - (11/2 × M)|
+
+-----------------------------------------------
+10. Time Gain/Loss by Clock Hands
+-----------------------------------------------
+- In every hour, the minute hand gains 5 complete divisions (or 360°) over the hour hand.
+
+-----------------------------------------------
+Tip:
+- Always keep angles in degrees.
+- Convert time into minute fractions when needed.
+- For time calculations, prefer using the base formula directly.
+
+
+
+CLOCK PROBLEMS – ADVANCED INSIGHTS & FUNDAMENTAL KNOWLEDGE
+
+------------------------------------------------------------
+1. How Many Times the Hands Coincide (Overlap) in 24 Hours?
+------------------------------------------------------------
+- In 12 hours, the hour and minute hands coincide **11 times**.
+- Therefore, in 24 hours:  
+  → 11 × 2 = **22 times**
+
+------------------------------------------------------------
+2. How Many Times the Hands are Opposite (180° Apart)?
+------------------------------------------------------------
+- Hands are in a straight line (180° apart) also **11 times** in 12 hours.
+- So in 24 hours:  
+  → 11 × 2 = **22 times**
+
+------------------------------------------------------------
+3. How Many Times the Hands are at Right Angle (90°)?
+------------------------------------------------------------
+- Hands are at 90° **twice** in every hour:
+  → Once when the minute hand is ahead of the hour hand.
+  → Once when the minute hand is behind.
+
+- So, in 12 hours:
+  → 2 × 12 = **24 times**
+- In 24 hours:
+  → 24 × 2 = **48 times**
+
+------------------------------------------------------------
+4. Summary Table:
+------------------------------------------------------------
+| Situation           | In 12 hours | In 24 hours |
+|---------------------|-------------|-------------|
+| Coincide (0°)       | 11 times    | 22 times    |
+| Opposite (180°)     | 11 times    | 22 times    |
+| Right Angle (90°)   | 22 times    | 44 times    |
+
+* Note: Some books mention 22 right angles in 12 hours. That’s because it occurs twice in every hour (not on the hour), for a total of 22 *unique* positions.
+
+------------------------------------------------------------
+5. Why Not 12 Coincidences in 12 Hours?
+------------------------------------------------------------
+- Because at 12:00 both hands are at the same place.
+- The next coincidence happens just before 1:05.
+- They do **not** meet exactly 12 times due to the relative motion.
+- They meet **every 65 5/11 minutes**, so:
+  → 720 minutes / 65 5/11 ≈ 11 coincidences.
+
+------------------------------------------------------------
+6. Important Facts to Remember:
+------------------------------------------------------------
+- Hands meet every 65 5/11 minutes.
+- They are 180° apart every 65 5/11 minutes after a coincidence.
+- They are 90° apart every 32 8/11 minutes.
+
+------------------------------------------------------------
+7. Extra Tip:
+------------------------------------------------------------
+- Minute hand is faster than the hour hand.
+- The minute hand gains 360° over the hour hand in 12 hours.
+  → This is why they meet 11 times: 360° / (360°/11) = 11
+
+------------------------------------------------------------
+8. Useful Conversions:
+------------------------------------------------------------
+- 1 hour = 60 minutes
+- 1 minute = 60 seconds
+- 1 hour = 30° for the hour hand (360°/12)
+- 1 minute = 6° for the minute hand (360°/60)
+- Hour hand moves 0.5° per minute

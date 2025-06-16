@@ -1,0 +1,42 @@
+CLOCK PROBLEMS - BASIC LEVEL (BEGINNER PRACTICE SET)
+
+1. What is the angle between the hour and minute hands at 3:00?
+
+2. What is the angle between the hour and minute hands at 9:00?
+
+3. What is the angle between the hour and minute hands at 6:00?
+
+4. At what time between 4 and 5 will the hands be together?
+
+5. At what time between 7 and 8 will the hands be in a straight line?
+
+6. What is the angle between the hands at 2:30?
+
+7. How many times in a day do the hands of a clock coincide?
+
+8. How many times in a day are the hands at 180 degrees?
+
+9. How many times in a day are the hands at 90 degrees?
+
+10. At what time between 3 and 4 will the hands be at 90°?
+
+11. At what time between 1 and 2 will the hands be at right angle?
+
+12. Find the angle between hour and minute hands at 10:15.
+
+13. At what time between 5 and 6 are the hands together?
+
+14. A clock shows 6:00. What is the angle between the hands?
+
+15. At what time between 8 and 9 will the hands be at 90°?
+
+16. A clock shows 7:20. Find the angle between the hands.
+
+17. How much does the hour hand move in 1 hour?
+
+18. How much does the minute hand move in 1 minute?
+
+19. At what time between 10 and 11 are the hands in a straight line?
+
+20. A clock shows 12:45. What is the angle between the hour and minute hands?
+

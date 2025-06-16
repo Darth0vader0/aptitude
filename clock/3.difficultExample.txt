@@ -1,0 +1,42 @@
+CLOCK PROBLEMS – ADVANCED LEVEL (PLACEMENT/COMPETITIVE PRACTICE)
+
+1. At what time between 7 and 8 will the hands of the clock be together?
+
+2. A clock is set at 12:00. After how many minutes will the hands overlap for the first time?
+
+3. At what time between 5 and 6 is the angle between the hands 30°?
+
+4. Find the time between 2 and 3 when the hands are exactly in the same straight line but not overlapping.
+
+5. At what time between 8 and 9 is the angle between the hands 60°?
+
+6. How many times between 6 a.m. and 6 p.m. will the hands of the clock form a 90° angle?
+
+7. At what time between 3 and 4 will the minute hand be 15 minutes spaces ahead of the hour hand?
+
+8. Find the time between 1 and 2 when the hands of the clock are 90° apart for the second time.
+
+9. At what time between 11 and 12 will the hands be 60° apart?
+
+10. The minute hand of a clock overtakes the hour hand at intervals of how many minutes?
+
+11. A clock gains 5 minutes every hour. If it is set correctly at 12:00, what time will it show at 3:00 actual time?
+
+12. A clock is 10 minutes slow at 2 p.m. and 20 minutes fast at 8 p.m. When was it correct?
+
+13. At what time between 10 and 11 are the hands 54° apart?
+
+14. At what time between 4 and 5 are the hands at a distance of 18°?
+
+15. A watch gains 2 minutes every 6 hours. If it shows correct time at 6 a.m., what time will it show at 6 p.m.?
+
+16. At what time between 12 and 1 is the angle between the hands 84°?
+
+17. A clock shows the correct time at 5:00. After that, it loses 1 minute every hour. What will be the correct time when it shows 10:00?
+
+18. At what time between 9 and 10 will the hands be at right angle for the second time?
+
+19. At what time between 6 and 7 is the angle between the hour and minute hands 120°?
+
+20. A clock is observed to be 7 minutes fast at 7 a.m. and 5 minutes slow at 7 p.m. When was it correct?
+
