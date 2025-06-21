@@ -1,0 +1,83 @@
+📅  CALENDAR SHORTCUT NOTES 📅
+
+-------------------------------------
+✅ BASIC DAY-FINDING SHORTCUT
+-------------------------------------
+If today is a certain day and you want to know what day it will be after X days:
+
+1. Do: X % 7 → gives remainder R
+2. Move forward R days from the current day
+
+Example:
+If today is Monday and X = 10,
+→ 10 % 7 = 3 → Monday + 3 = Thursday
+
+To go backwards, use: (-X) % 7 and move back.
+
+-------------------------------------
+✅ 15 AUGUST 1947 – WHAT DAY WAS IT?
+-------------------------------------
+Your custom trick:
+
+1. Find last completed 400-multiple before the year:
+   1946 → last is 1600 → 0 odd days
+
+2. Remaining years = 346
+   → 300 = 1 odd day (from this table):
+      100 → 5
+      200 → 3
+      300 → 1
+      400 → 0
+
+3. Remaining 46 years = 
+   - Leap years = 11 → 11×2 = 22
+   - Ordinary years = 35 → 35×1 = 35
+   - Total = 22 + 35 = 57 + 1 (from 300 years) = 58 odd days
+
+4. Month + Date odd days:
+   Jan = 3
+   Feb = 0
+   Mar = 3
+   Apr = 2
+   May = 3
+   Jun = 2
+   Jul = 3
+   Aug = 15 → 15 ÷ 7 = 2 remainder 1
+   → Total = 17
+
+5. Total = 58 (year) + 17 (month+date) = 75
+   75 % 7 = 5 → **Friday**
+
+✅ Final Answer: 15th August 1947 was a **Friday**
+
+-------------------------------------
+✅ SAME CALENDAR YEAR SHORTCUT
+-------------------------------------
+Use this based on year % 4:
+
+| year % 4 | Add this many years |
+|----------|----------------------|
+|   0      | 28                   |
+|   1      | 6                    |
+|   2      | 11                   |
+|   3      | 11                   |
+
+Example:
+2003 % 4 = 3 → add 11 → 2003 + 11 = **2014**
+
+✅ So, 2014 has the **same calendar** as 2003
+
+More examples:
+- 2004 → 2004 % 4 = 0 → +28 → 2032
+- 2007 → 2007 % 4 = 3 → +11 → 2018
+
+-------------------------------------
+✅ DAY CODES (for remainder → weekday)
+-------------------------------------
+0 = Sunday  
+1 = Monday  
+2 = Tuesday  
+3 = Wednesday  
+4 = Thursday  
+5 = Friday  
+6 = Saturday
