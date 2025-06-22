@@ -1,33 +1,31 @@
-import React from "react";
-import { cva } from "class-variance-authority";
+import React from 'react';
 
-import { cn } from "../../libs/utils"
+function Badge({
+  children,
+  variant = 'primary',
+  size = 'md',
+  className = '',
+}) {
+  const variantClasses = {
+    primary: 'bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-200',
+    secondary: 'bg-secondary-100 text-secondary-800 dark:bg-secondary-900 dark:text-secondary-200',
+    success: 'bg-accent-100 text-accent-800 dark:bg-accent-900 dark:text-accent-200',
+    warning: 'bg-warning-100 text-warning-800 dark:bg-warning-900 dark:text-warning-200',
+    error: 'bg-error-100 text-error-800 dark:bg-error-900 dark:text-error-200',
+  };
 
+  const sizeClasses = {
+    sm: 'px-2 py-1 text-xs',
+    md: 'px-3 py-1.5 text-sm',
+  };
 
-const badgeVariants = cva(
-  "inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2",
-  {
-    variants: {
-      variant: {
-        default:
-          "border-transparent bg-primary text-primary-foreground hover:bg-primary/80",
-        secondary:
-          "border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80",
-        destructive:
-          "border-transparent bg-destructive text-destructive-foreground hover:bg-destructive/80",
-        outline: "text-foreground",
-      },
-    },
-    defaultVariants: {
-      variant: "default",
-    },
-  }
-);
-
-function Badge({ className, variant, ...props }) {
   return (
-    <div className={cn(badgeVariants({ variant }), className)} {...props} />
+    <span
+      className={`inline-flex items-center rounded-full font-medium ${variantClasses[variant]} ${sizeClasses[size]} ${className}`}
+    >
+      {children}
+    </span>
   );
 }
 
-export { Badge, badgeVariants };
+export default Badge;
