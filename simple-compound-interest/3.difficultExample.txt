@@ -1,0 +1,71 @@
+Advanced Simple Interest & Compound Interest Questions (30)
+===========================================================
+
+I. SIMPLE INTEREST – 15 Difficult Questions
+-------------------------------------------
+
+1. A sum amounts to ₹9600 in 4 years at SI and to ₹10,400 in 5 years. Find the principal and the rate.
+
+2. A man lends ₹8000 at 4% p.a. and ₹6000 at 6% p.a. After 5 years, he gets ₹3000 in interest. Find the time for the second loan.
+
+3. ₹6000 is lent in two parts at 6% and 10% SI. The total annual interest is ₹480. Find the amounts.
+
+4. A sum invested for 4 years would have fetched ₹480 more if the rate had been 2% higher. Find the principal.
+
+5. The SI on a sum for 3 years is ₹450. Had the interest been compounded annually, it would have become ₹471.90. Find the rate and the sum.
+
+6. A sum becomes ₹12,000 in 2 years and ₹14,400 in 4 years at SI. What is the principal?
+
+7. A sum becomes double in 8 years at SI. In how many years will it triple?
+
+8. If SI on a sum is 40% of principal in 5 years, find the rate.
+
+9. The SI on ₹2000 becomes ₹500 in ‘t’ years. If the same sum gives ₹600 in (t + 2) years, find t.
+
+10. A sum of ₹10,000 earns SI of ₹2800 in 4 years. What would be the SI if it was invested at the same rate for 6 years?
+
+11. If the SI on a sum for 2 years is ₹160 and on the same sum for 3 years is ₹240, find the principal.
+
+12. The interest on a certain principal is ₹720 in 4 years. If the rate increases by 2%, the interest becomes ₹960. Find the principal and original rate.
+
+13. A person invests ₹5000 at 5% SI p.a. and another ₹8000 at 8% p.a. What is the total interest after 2 years?
+
+14. If a sum doubles in 10 years at simple interest, in how many years will it become 5 times?
+
+15. A man lends ₹4000 at SI and receives ₹480 as interest in 3 years. What would be the interest for 5 years at the same rate?
+
+--------------------------------------------------------------
+
+II. COMPOUND INTEREST – 15 Difficult Questions
+----------------------------------------------
+
+16. A sum becomes ₹8820 in 2 years and ₹9261 in 3 years at CI. Find the rate and original principal.
+
+17. CI on a sum for 2 years at 12% p.a. is ₹2544.96. Find the sum.
+
+18. The difference between CI and SI on ₹12,000 for 2 years at 10% is ₹120. Find the interest for both methods.
+
+19. A man invests ₹10,000 for 2 years. CI for first year is ₹800, second year is ₹880. Find the rate.
+
+20. A sum becomes ₹6050 in 2 years at CI and ₹5500 in SI. Find the rate and the principal.
+
+21. A sum becomes ₹16,000 in 2 years at CI. If the rate is 10%, what is the CI and principal?
+
+22. Find the CI on ₹5000 at 10% p.a. compounded half-yearly for 1.5 years.
+
+23. The amount becomes ₹17,640 in 3 years at CI, and the rate is 10%. Find the principal.
+
+24. A sum is lent at CI and becomes ₹12,100 in 2 years. If the rate is 10%, what is the original sum?
+
+25. A person lends ₹5000 to be paid in 2 annual instalments of ₹2762.50 at 10% CI. Check if it covers full repayment.
+
+26. A sum triples in 3 years at CI. In how many years will it become 9 times?
+
+27. The CI on a sum at 15% p.a. for 2 years is ₹943.50. Find the principal.
+
+28. A sum invested at CI earns ₹3025 in 2 years at 10% p.a. compounded annually. What is the principal?
+
+29. What will be the CI on ₹2500 at 8% p.a. compounded quarterly for 1.5 years?
+
+30. A person invests ₹20,000 for 3 years at CI. If the total interest earned is ₹6612.80, find the rate.
+

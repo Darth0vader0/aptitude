@@ -34,6 +34,21 @@ How profit/loss is calculated when item is sold at discount but above/below CP.
 5. False Weights
 Seller uses less weight than promised (e.g., sells 950g instead of 1kg but charges full price).
 
+
+    I. If a trader professes to sell his goods at cost price, but uses false weights, then
+
+        Gain % = [ Error / (True Value – Error) × 100 ] %
+
+    II. If a trader professes to sell his goods at a profit of x% but uses false weight which is y% less than the actual weight, then
+
+        Gain % = [ (x + y) / (100 – y) × 100 ] %
+
+    III. If a trader professes to sell his goods at a loss of x% but uses false weight which is y% less than the actual weight, then
+
+        Gain or Loss % = [ (y – x) / (100 – y) × 100 ] %
+
+    (Note: Final result sign depends on the expression — gain if positive, loss if negative.)
+
 Used in tricky placement Qs.
 
 6. Overall Gain or Loss in Multiple Transactions

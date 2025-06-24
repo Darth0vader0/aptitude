@@ -46,8 +46,16 @@ export default function Home() {
         <h1 className="text-4xl font-bold tracking-tight mb-4">Step up into your aptitude level</h1>
         <p className="text-muted-foreground mb-8">Learn, understand, and be ready for your exams</p>
         <div className="flex flex-col sm:flex-row gap-4">
-          <Button >Learn</Button>
-          <Button variant="outline">
+          <Button
+            onClick ={()=>{
+              window.location.href = "/practice"
+            }} 
+          >Learn</Button>
+          
+          <Button variant="outline"
+          onClick={()=>{window.location.href = "/about"}}
+          
+          >
             About
           </Button>
           

@@ -48,17 +48,7 @@ function Header() {
 
           {/* Theme Toggle & Mobile Menu */}
           <div className="flex items-center space-x-4">
-            <button
-              onClick={toggleTheme}
-              className="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
-              aria-label="Toggle theme"
-            >
-              {theme === 'light' ? (
-                <Moon className="w-4 h-4 text-gray-700 dark:text-gray-300" />
-              ) : (
-                <Sun className="w-4 h-4 text-gray-700 dark:text-gray-300" />
-              )}
-            </button>
+            
 
             {/* Mobile menu button */}
             <button

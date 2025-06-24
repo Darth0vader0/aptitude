@@ -1,0 +1,68 @@
+Simple Interest - 15 Basic Questions
+====================================
+
+1. Find the simple interest on ₹5000 at 10% per annum for 2 years.
+
+2. A sum of ₹8000 earns ₹960 as interest in 3 years. Find the rate of interest.
+
+3. What will be the total amount after 4 years on ₹1200 at 6% per annum?
+
+4. At what rate will ₹4000 earn ₹320 in 2 years?
+
+5. How long will ₹2500 take to become ₹3000 at 5% simple interest?
+
+6. Find the simple interest on ₹6000 at 8% per annum for 1.5 years.
+
+7. A sum earns ₹100 in 10 months at 12% per annum. What is the principal?
+
+8. If SI = ₹540, rate = 9%, and time = 3 years, find the principal.
+
+9. How much time will ₹3500 take to earn ₹490 at 7% per annum?
+
+10. What is the rate if ₹2000 amounts to ₹2200 in 2 years?
+
+11. A man borrowed ₹1600 at 5% per annum. How much interest does he pay in 3 years?
+
+12. How much SI is earned on ₹4500 in 4 years at 6% per annum?
+
+13. Find the total amount on ₹9000 at 4% for 2.5 years.
+
+14. A sum becomes ₹7500 in 5 years at 10% per annum. Find the principal.
+
+15. A man paid ₹720 as SI for 3 years at 12%. Find the principal.
+
+---------------------------------------------------------
+
+Compound Interest - 15 Basic Questions
+======================================
+
+1. Find the compound interest on ₹5000 at 10% per annum for 2 years.
+
+2. What will be the amount on ₹3000 at 5% compounded annually for 3 years?
+
+3. A sum of ₹8000 amounts to ₹9261 at 5% compounded annually in 3 years. Find the CI.
+
+4. Calculate CI on ₹4000 for 2 years at 10% compounded annually.
+
+5. Find the compound interest on ₹1200 for 3 years at 5% per annum compounded annually.
+
+6. What is the CI on ₹1000 at 10% p.a. for 2 years, compounded half-yearly?
+
+7. Find the compound interest on ₹5000 at 8% p.a. compounded annually for 2 years.
+
+8. What will ₹2000 amount to in 3 years at 4% compounded annually?
+
+9. The amount after 2 years on ₹6400 at 5% compounded annually is?
+
+10. A sum becomes ₹12100 in 2 years at 10% p.a. compounded annually. Find the principal.
+
+11. If ₹1000 amounts to ₹1210 in 2 years at compound interest, what is the rate?
+
+12. What will be the compound interest on ₹6000 at 6% p.a. for 2 years?
+
+13. Find the amount on ₹2500 at 12% p.a. compounded annually for 2 years.
+
+14. How much compound interest will ₹1500 earn in 3 years at 10% p.a.?
+
+15. A sum triples in 3 years at compound interest. Find the rate of interest.
+

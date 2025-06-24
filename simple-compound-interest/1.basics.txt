@@ -1,0 +1,57 @@
+Compound and Simple Interest - Basics and Formulas
+==================================================
+
+I. SIMPLE INTEREST (SI)
+------------------------
+1. Formula:
+   SI = (P × R × T) / 100
+
+   Where:
+   P = Principal amount
+   R = Rate of interest per annum (%)
+   T = Time (in years)
+
+2. Total Amount (A):
+   A = P + SI
+
+3. Example:
+   If P = ₹1000, R = 10%, T = 2 years
+   SI = (1000 × 10 × 2) / 100 = ₹200
+   A = 1000 + 200 = ₹1200
+
+II. COMPOUND INTEREST (CI)
+---------------------------
+1. Formula (Annual Compounding):
+   A = P × (1 + R/100)^T
+   CI = A - P
+
+2. Formula (Half-Yearly Compounding):
+   A = P × (1 + (R/2)/100)^(2T)
+
+3. Formula (Quarterly Compounding):
+   A = P × (1 + (R/4)/100)^(4T)
+
+4. Approximate Shortcut (for 2 years, when R is small):
+   CI ≈ SI + (SI × R)/100
+
+5. Example:
+   P = ₹1000, R = 10%, T = 2 years
+
+   Annual:
+   A = 1000 × (1 + 0.10)^2 = 1000 × 1.21 = ₹1210
+   CI = 1210 - 1000 = ₹210
+
+   Half-Yearly:
+   A = 1000 × (1 + 0.05)^4 ≈ 1000 × 1.2155 ≈ ₹1215.5
+   CI ≈ ₹215.5
+
+   Quarterly:
+   A = 1000 × (1 + 0.025)^8 ≈ 1000 × 1.219 ≈ ₹1219
+   CI ≈ ₹219
+
+III. Key Points
+----------------
+- Compound interest always gives more return than simple interest over the same duration.
+- For short time or low rate, CI ≈ SI.
+- Compound Interest grows exponentially due to interest on interest.
+

@@ -1,0 +1,71 @@
+Placement-Ready Simple & Compound Interest Questions (30)
+==========================================================
+
+I. SIMPLE INTEREST – 15 Placement-Ready Questions
+--------------------------------------------------
+
+1. A sum of ₹6000 amounts to ₹7200 in 2 years at simple interest. Find the rate of interest.
+
+2. In how many years will ₹4000 amount to ₹5200 at 10% per annum?
+
+3. What sum of money will earn ₹840 in 4 years at 7% simple interest?
+
+4. At what rate percent will ₹2500 earn ₹500 as interest in 5 years?
+
+5. A sum earns ₹480 interest at 8% per annum in 2 years. What is the principal?
+
+6. The SI on a certain sum for 3 years at 5% p.a. is ₹900. Find the sum.
+
+7. If the SI on a sum for 2 years is ₹300 and the rate is 10%, find the principal.
+
+8. A person lent ₹10,000 at 9% p.a. for 3 years. Find the amount received.
+
+9. A sum of ₹4000 is invested at SI for 2.5 years and earns ₹600. What is the rate?
+
+10. How long will ₹5000 take to amount to ₹5750 at 5% per annum?
+
+11. A certain amount becomes ₹12,500 in 5 years and ₹13,000 in 6 years. Find the principal.
+
+12. ₹8400 was lent at 7.5% per annum for 4 years. Find the interest earned.
+
+13. If SI and principal are equal after 10 years, what is the rate of interest?
+
+14. A sum becomes ₹5500 in 3 years and ₹6100 in 6 years. Find the rate.
+
+15. A man invests ₹7200 at 6% SI p.a. How much will he get after 5 years?
+
+------------------------------------------------------------
+
+II. COMPOUND INTEREST – 15 Placement-Ready Questions
+-----------------------------------------------------
+
+16. Find the CI on ₹10,000 for 2 years at 10% p.a. compounded annually.
+
+17. A sum becomes ₹1210 in 2 years at 10% p.a. CI. Find the principal.
+
+18. What will be the amount on ₹6000 at 5% p.a. compounded annually for 2 years?
+
+19. Find the CI earned on ₹4000 in 3 years at 5% p.a. compounded annually.
+
+20. A sum becomes ₹8820 in 2 years and ₹9261 in 3 years at CI. Find the rate.
+
+21. The CI on ₹5000 at 12% p.a. for 2 years is?
+
+22. If the amount after 2 years is ₹1102.50 and the principal is ₹1000, find the rate.
+
+23. CI on ₹8000 for 1.5 years at 8% p.a., compounded half-yearly is?
+
+24. Find the difference between CI and SI on ₹12,000 for 2 years at 10% p.a.
+
+25. A sum becomes ₹17,280 in 2 years at 20% CI p.a. Find the original sum.
+
+26. Find the CI on ₹20,000 at 7.5% p.a. compounded annually for 2 years.
+
+27. The CI on ₹6400 for 3 years at 5% p.a. compounded annually is?
+
+28. A person deposits ₹5000 for 2 years at CI and gets ₹1102.50 as interest. Find the rate.
+
+29. A sum becomes ₹2916 in 2 years at 8% CI p.a. Find the principal.
+
+30. The amount becomes ₹2662.50 in 2 years at 6% CI p.a. What is the principal?
+
