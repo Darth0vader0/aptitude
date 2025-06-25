@@ -1,0 +1,59 @@
+Boats and Streams – Basics and Formulas
+=======================================
+
+1. Key Terms:
+-------------
+- **Upstream**: When a boat moves against the direction of the stream (i.e., against the current).
+- **Downstream**: When a boat moves with the direction of the stream (i.e., with the current).
+
+- Let:
+  - **B** = Speed of boat in still water (km/h or m/s)
+  - **S** = Speed of stream/current (km/h or m/s)
+
+Then:
+- **Downstream Speed = (B + S)**
+- **Upstream Speed = (B - S)**
+
+2. Time, Speed and Distance:
+----------------------------
+- **Time = Distance / Speed**
+- Use downstream or upstream speed accordingly based on direction.
+
+3. Important Formulas:
+----------------------
+
+- **Speed of boat in still water**  
+  = (Downstream Speed + Upstream Speed) / 2
+
+- **Speed of stream**  
+  = (Downstream Speed – Upstream Speed) / 2
+
+- If time taken for same distance downstream and upstream is different:
+  - Let **d = distance**  
+  - Then:  
+    `d / (B - S) + d / (B + S) = Total Time`
+
+- For equal distances covered upstream and downstream:
+  - **Average speed** = (2 × Upstream Speed × Downstream Speed) / (Upstream Speed + Downstream Speed)
+
+4. Unit Conversions:
+--------------------
+- If speed is in km/h and distance is in meters, convert:
+  - 1 km = 1000 meters
+  - 1 hour = 3600 seconds
+
+- **To convert km/h to m/s**, multiply by **5/18**
+
+5. Notes:
+---------
+- Stream speed always **adds to** boat speed downstream, and **subtracts from** boat speed upstream.
+- If no stream or river, downstream = upstream = speed of boat in still water.
+
+6. Common Question Types:
+-------------------------
+- Find speed of boat/stream
+- Find distance traveled
+- Find time taken in upstream/downstream journey
+- Compare times of round trips
+- Boats crossing each other or floating objects
+

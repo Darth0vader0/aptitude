@@ -1,0 +1,45 @@
+===============================
+   Pipes and Cisterns – 20 Basic Examples
+===============================
+
+1. Pipe A can fill a tank in 12 hours. How much part of the tank is filled in 1 hour?
+
+2. Pipe B can empty a tank in 10 hours. What part of the tank is emptied in 1 hour?
+
+3. Pipe A can fill a tank in 8 hours and pipe B can fill it in 12 hours. How long will it take to fill the tank together?
+
+4. Pipe A fills in 6 hours, and pipe B empties in 9 hours. If both are opened together, how long will it take to fill the tank?
+
+5. Pipe A fills a tank in 5 hours. How much work is done by the pipe in 2 hours?
+
+6. Two pipes can fill a tank in 6 hours and 3 hours respectively. How long will they take to fill the tank together?
+
+7. Pipe A fills a tank in 4 hours and pipe B empties it in 6 hours. If both are opened, what part of the tank is filled in 1 hour?
+
+8. Pipe A fills the tank in 15 hours, B in 10 hours. In how many hours will the tank be full if both are opened together?
+
+9. A tank is filled by two pipes in 8 and 12 hours respectively. How long will it take to fill the tank if both are opened together?
+
+10. An inlet fills the tank in 10 hours. If it is opened for 3 hours, what fraction of the tank is filled?
+
+11. A pipe can fill a tank in 5 hours. How much time will it take to fill 2/5 of the tank?
+
+12. Pipe A can fill a tank in 6 hours. Pipe B can empty it in 12 hours. If both are opened, in how many hours will the tank be full?
+
+13. A tank is emptied in 9 hours by a pipe. How much is emptied in 5 hours?
+
+14. Pipe A can fill a tank in 10 hours. How much of the tank is filled in 30 minutes?
+
+15. A cistern is filled by a pipe in 7 hours. How much part of the tank is filled in 3.5 hours?
+
+16. Two pipes fill a tank in 4 and 6 hours. One pipe is opened 2 hours before the other. How long will it take to fill the tank completely?
+
+17. A tank can be filled by pipe A in 12 hours and pipe B in 4 hours. If both are opened together, how long will it take?
+
+18. Pipe A fills a tank in 20 minutes, pipe B in 30 minutes. In how much time will the tank be filled together?
+
+19. An outlet empties a tank in 15 hours. If the tank is full and the outlet is opened, how much of the tank is emptied in 10 hours?
+
+20. A pipe can fill a tank in 16 hours. If another pipe is opened which empties the tank in 32 hours, how long will it take to fill the tank?
+
+===============================

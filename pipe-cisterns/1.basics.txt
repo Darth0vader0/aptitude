@@ -1,0 +1,55 @@
+===============================
+       PIPES AND CISTERNS – BASICS
+===============================
+
+1. Inlet Pipe:
+   → Fills the tank (adds water)
+   → Work done is positive
+   → If a pipe fills the tank in X hours, then part filled in 1 hour = 1/X
+
+2. Outlet Pipe:
+   → Empties the tank (drains water)
+   → Work done is negative
+   → If a pipe empties the tank in Y hours, then part emptied in 1 hour = -1/Y
+
+3. Combined Work:
+   → If an inlet fills in X hours and an outlet empties in Y hours:
+     Net work in 1 hour = (1/X) - (1/Y)
+   → If net work is positive → tank is filling
+   → If net work is negative → tank is draining
+
+4. Total Time:
+   → If net rate = R (in terms of tank per hour), then total time = 1/R
+
+5. If multiple pipes fill the tank:
+   → Sum all rates: 1/X + 1/Y + 1/Z …
+
+6. If multiple pipes are opened alternately:
+   → Break time into intervals and calculate cumulative effect step by step.
+
+7. If tank has a leak:
+   → Work done by leak is considered negative
+   → Example: If A fills in 4 hours and leak empties in 6 hours,
+     then net rate = (1/4 - 1/6)
+
+8. Full tank volume concept:
+   → Assume full tank = 1 unit (or use LCM for volume if needed for convenience)
+
+9. Time taken to fill ‘part’ of the tank:
+   → Time = (Required work) / (Net rate)
+
+10. Pipe closed/opened after certain time:
+   → Use piecewise calculation (e.g., first X minutes with both, rest with only one)
+
+===============================
+        KEY FORMULAS
+===============================
+
+✓ Time = Work / Rate
+
+✓ Net rate = Sum of inlet pipes – Sum of outlet pipes
+
+✓ If pipe A fills in X hours and pipe B fills in Y hours,
+   Together they fill in = (XY)/(X + Y) hours
+
+✓ If

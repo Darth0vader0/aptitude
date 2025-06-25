@@ -1,0 +1,62 @@
+Averages – Basic Concepts and Formulas
+=======================================
+
+1. Definition:
+--------------
+The **average** (arithmetic mean) of a group of numbers is the **sum of the numbers divided by the number of elements**.
+
+   ➤ Average = (Sum of all values) / (Number of values)
+
+2. Key Formulas:
+----------------
+
+- **Average of n numbers**:  
+  = (a₁ + a₂ + a₃ + ... + aₙ) / n
+
+- **Sum = Average × Number of terms**
+
+- If a person joins or leaves a group and the average changes:
+  ➤ Total change in sum = Change in average × New number of terms
+
+3. Important Cases:
+-------------------
+
+- **Average of first n natural numbers** = (n + 1) / 2
+
+- **Average of first n even numbers** = (n + 1)
+
+- **Average of first n odd numbers** = n
+
+- **If the same number x is added to each term**,  
+  ➤ New Average = Old Average + x
+
+- **If the same number x is subtracted from each term**,  
+  ➤ New Average = Old Average - x
+
+4. Weighted Average:
+--------------------
+
+When different groups have different sizes and averages:
+
+➤ Weighted Average =  
+  (n₁ × avg₁ + n₂ × avg₂ + ... + nₖ × avgₖ) / (n₁ + n₂ + ... + nₖ)
+
+Example: If class A (avg = 60, size = 30) and class B (avg = 70, size = 20),  
+Overall average = (60×30 + 70×20) / (30 + 20)
+
+5. Shortcut:
+------------
+
+When replacing one person in a group and the average changes:
+
+➤ New person’s value = Old person’s value ± (change × group size)
+
+6. Typical Question Patterns:
+-----------------------------
+
+- Find the average of a set of numbers
+- Find the missing number given average and others
+- Change in average after adding/removing person/item
+- Questions involving cricket scores, team averages, marks, runs, etc.
+- Comparing averages between groups (weighted average problems)
+

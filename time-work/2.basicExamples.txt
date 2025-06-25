@@ -1,0 +1,45 @@
+===============================
+  Time, Work, and Wages – 20 Basic Examples
+===============================
+
+1. A can complete a work in 10 days. How much work does A complete in 1 day?
+
+2. B can do a work in 12 days. How many days will B take to complete half of the work?
+
+3. A can do a work in 8 days, B can do it in 16 days. How long will they take to complete the work together?
+
+4. A does a work in 20 days. How much part of the work is done in 5 days?
+
+5. A and B together can complete a work in 6 days. A alone can do it in 10 days. How many days will B take to finish the work alone?
+
+6. B completes a work in 9 days. How many days will it take for B to complete 1/3 of the work?
+
+7. A can complete a work in 6 days, and B in 12 days. If they work together for 3 days, how much of the work is left?
+
+8. If 4 men can complete a work in 10 days, in how many days will 2 men complete it?
+
+9. A and B can finish a work in 18 days. They work together for 12 days and then B leaves. A completes the remaining work in 6 days. In how many days can A alone finish the work?
+
+10. A is twice as efficient as B. If B can complete a work in 18 days, how many days will A take?
+
+11. A, B, and C together can do a work in 10 days. If A alone can do it in 30 days, B in 20 days, in how many days can C alone do the work?
+
+12. If 5 workers can complete a task in 12 days, how many workers are needed to complete the task in 4 days?
+
+13. A can do a work in 5 days and B can do the same work in 10 days. If they work alternately starting with A, in how many days will the work be completed?
+
+14. A and B can complete a work in 15 days. They are paid ₹600 for the whole work. What is A’s share if A alone can do the work in 20 days and B in 30 days?
+
+15. A completes 1/3 of a work in 4 days. How long will he take to complete the whole work?
+
+16. A can finish a work in 18 days. He works for 6 days and leaves. B completes the remaining work in 12 days. In how many days can B alone complete the whole work?
+
+17. A and B together can do a work in 10 days. A alone takes 15 days. What part of the work is done by B in one day?
+
+18. 3 men or 5 women can complete a work in 6 days. How many days will 6 men and 10 women take to complete the same work?
+
+19. A can complete a work in 24 days, B in 18 days. They start together, but B leaves after 6 days. In how many more days will A finish the remaining work?
+
+20. A is 3 times as efficient as B. Together they can do a work in 12 days. In how many days can B alone do it?
+
+===============================

@@ -1,0 +1,43 @@
+Boats and Streams – 20 Difficult/Placement-Level Questions 
+========================================================================
+
+1. A boat covers 50 km downstream in 2 hours and returns upstream in 5 hours. Find the speed of the stream and the speed of the boat in still water.
+
+2. A man can row 40 km downstream in 4 hours. If he takes 5 hours to return the same distance, find the speed of the stream and of the boat.
+
+3. The speed of a stream is 3 km/h. A boat goes 42 km downstream in 3 hours. Find the time taken to cover 36 km upstream.
+
+4. A boat travels from point A to B downstream and returns upstream in a total of 13 hours. The distance between A and B is 48 km. If the speed of the current is 2 km/h, find the speed of the boat.
+
+5. A boat can travel 28 km upstream and 52 km downstream in 7 hours. If it can travel 30 km upstream and 45 km downstream in 8 hours, find the speed of the boat and stream.
+
+6. A man rows to a place 72 km distant and back in 18 hours. He finds that he can row 5 km with the stream in the same time as 3 km against it. Find the speed of the man in still water and the stream.
+
+7. A boat covers a certain distance downstream in 1 hour less than upstream. If the speed of the stream is 2 km/h and the distance is 36 km, find the speed of the boat in still water.
+
+8. A boat can travel a certain distance downstream in 3 hours and return upstream in 4 hours. If the speed of the stream is 2 km/h, and the total distance covered is 84 km, find the speed of the boat in still water.
+
+9. A boat takes 5 hours to row 30 km upstream and 2 hours to cover the same distance downstream. Find the speed of the stream.
+
+10. A boat takes 12 hours to travel a distance downstream and back upstream. If the downstream speed is twice the upstream speed and the total distance is 90 km, find the speed of the boat in still water.
+
+11. A boat takes 2 hours less to travel 90 km downstream than to travel the same distance upstream. If the speed of the stream is 3 km/h, find the speed of the boat in still water.
+
+12. A boat covers 36 km upstream and 48 km downstream in 9 hours. It also covers 24 km upstream and 36 km downstream in 6 hours. Find the speed of the boat and stream.
+
+13. A boat travels 60 km downstream and returns to the starting point in 9 hours. If the speed of the boat in still water is 10 km/h, find the speed of the stream.
+
+14. A boat goes 24 km upstream in 3 hours and 36 km downstream in 2 hours. Find the speed of the boat in still water and that of the stream.
+
+15. A boat travels from point A to B (upstream) and back in 5 hours. If the river flows at 3 km/h and the distance between A and B is 24 km, find the speed of the boat in still water.
+
+16. A man can row at 6 km/h in still water. If the river is flowing at 2 km/h, it takes him 4 hours to row to a place and back. Find the distance.
+
+17. A boat takes 4 hours more to go 120 km upstream than downstream. If the speed of the stream is 5 km/h, find the speed of the boat in still water.
+
+18. A boat takes 2 hours to go from A to B downstream and 3 hours to return. If the speed of the boat in still water is 12 km/h, find the speed of the stream and the distance AB.
+
+19. A boat covers a certain distance upstream in 8 hours and the same distance downstream in 6 hours. If the speed of the boat in still water is 14 km/h, find the speed of the stream and the distance.
+
+20. A boat travels 84 km downstream in 4 hours and the same distance upstream in 6 hours. Find the speed of the stream and the speed of the boat in still water.
+

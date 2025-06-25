@@ -1,0 +1,45 @@
+===============================
+ Time, Work, and Wages – 20 Placement-Ready Questions
+===============================
+
+1. A can do a work in 15 days. B can do the same work in 20 days. In how many days can they complete it together?
+
+2. A and B together can do a work in 10 days. B alone can do it in 15 days. How many days will A take to do the work alone?
+
+3. A can do a work in 12 days. He worked for 4 days and left. B completed the remaining work in 8 days. In how many days can B alone complete the work?
+
+4. If 10 workers can finish a task in 12 days, how many days will 15 workers take?
+
+5. A, B, and C can complete a work in 12, 15, and 20 days respectively. Working together, how many days will they take?
+
+6. A and B can finish a work in 6 days. B and C can finish it in 8 days. A and C can finish it in 12 days. In how many days can all three finish the work?
+
+7. A and B start a work together. After 3 days, A leaves and B completes the work in 12 more days. If the total work is 1 unit and B’s 1-day work is 1/15, find A’s 1-day work.
+
+8. A can do a work in 10 days. B is 50% more efficient than A. In how many days can B do the same work?
+
+9. A and B can do a piece of work in 18 days. A works for 9 days and leaves. B completes the rest of the work in 9 more days. In how many days can B alone do the work?
+
+10. A, B, and C get ₹7200 for a job they finish together. A worked for 10 days, B for 15 days, and C for 20 days. Their daily efficiencies are equal. Find C’s share.
+
+11. A is twice as efficient as B. A and B together can finish a work in 12 days. In how many days will B alone finish the work?
+
+12. A completes a work in 16 days. B is 25% more efficient than A. Find the number of days B alone would take to complete the same work.
+
+13. A and B together can complete a task in 8 days. B and C in 10 days. A and C in 16 days. In how many days can all three complete the task?
+
+14. 12 men can complete a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take?
+
+15. A is paid ₹600 for completing a job in 6 days. If B works with A and they complete the job in 4 days, how much should B be paid?
+
+16. A and B can complete a job in 5 days. B and C in 6 days, A and C in 4 days. In how many days can A, B, and C complete the job together?
+
+17. A can do a job in 18 days, and B in 24 days. They work together for 6 days. How much work is left?
+
+18. A can do a work in 30 days. After he worked for 6 days, B joined him. They finished the work in 12 more days. In how many days can B alone finish the work?
+
+19. A and B earn wages in the ratio 5:4. If they together earn ₹1800 for a job, how much does B get?
+
+20. A completes a work in 15 days, and B in 10 days. If they work on alternate days starting with A, how many days will it take to complete the work?
+
+===============================

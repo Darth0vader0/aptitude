@@ -1,0 +1,46 @@
+===============================
+ Time, Work, and Wages – 20 Difficult Examples
+===============================
+
+1. A can do a work in 12 days and B in 15 days. They start together, but A leaves after 4 days. In how many days will B finish the remaining work?
+
+2. A, B, and C can complete a work in 10, 12, and 15 days respectively. A works for 2 days, B for 4 days, and C for 6 days. What fraction of the work is left?
+
+3. A and B together can do a piece of work in 12 days. A alone can do it in 20 days. A works for 4 days and then leaves. In how many days will B complete the remaining work?
+
+4. A is 60% as efficient as B. Together they can complete a work in 15 days. In how many days can A alone do it?
+
+5. A and B can do a work in 20 days, B and C in 30 days, and A and C in 24 days. Find the time taken by A, B, and C together to do the work.
+
+6. A and B working together can complete a work in 18 days. After working together for 6 days, A leaves. B completes the remaining work in 18 more days. How long would A alone take?
+
+7. A alone can do a work in 15 days. B is 33.33% more efficient than A. In how many days can B alone do the same work?
+
+8. A and B together can complete a work in 12 days. A alone can complete the work in 18 days. If they get ₹3600 for the entire work, what is B’s share?
+
+9. A can complete a work in 8 days. B can complete 2/3 of the work in 4 days. Who is more efficient, and by what ratio?
+
+10. A starts a work and after 5 days B joins. The work is completed in 12 days. A alone can do the work in 20 days. How long would B alone take?
+
+11. A and B can complete a work in 16 days. They worked together for 8 days, then C joined them and the work was finished in 4 more days. How long would C take to complete the entire work alone?
+
+12. 8 men and 12 boys can complete a work in 10 days. 6 men and 8 boys can complete the same work in 14 days. In how many days can 1 man alone do the work?
+
+13. A is twice as efficient as B, and B is twice as efficient as C. If all three together can do a work in 6 days, how many days will C alone take?
+
+14. A, B, and C can do a work in 24, 30, and 40 days respectively. They all start together, but A leaves after 4 days, B leaves after 6 days. How many days does C take to finish the remaining work?
+
+15. A can do a work in 10 days, B in 12, and C in 15 days. They work one after another each day, starting with A, then B, then C, repeating the cycle. In how many days will the work be completed?
+
+16. A and B complete a work in 15 days. A works alone for 10 days, then B completes the rest in 10 more days. In how many days can B alone do the work?
+
+17. A contractor undertakes a work to be completed in 50 days by 60 workers. After 20 days, he employs 30 more workers. In how many days will the work be finished?
+
+18. A and B can complete a work together in 12 days. B alone can complete the same work in 20 days. A starts the work and works alone for 4 days, then B joins. In how many more days will the work be completed?
+
+19. A and B start a work together. A leaves after 3 days. B completes the remaining work in 15 days. If the total work is 1 unit, what is A’s efficiency if B's efficiency is 1/20?
+
+20. A can do a work in 25 days, B in 20 days. They start together but after 5 days, B is replaced by C. The remaining work is completed by A and C in 10 days. In how many days can C alone do the work?
+
+===============================
+
