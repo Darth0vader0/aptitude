@@ -1,0 +1,49 @@
+===============================
+Time, Speed, and Distance - Basics
+===============================
+
+1. Basic Formula:
+   Distance = Speed × Time
+   Speed = Distance / Time
+   Time = Distance / Speed
+
+2. Units of Speed:
+   - km/hr to m/s: Multiply by 5/18
+   - m/s to km/hr: Multiply by 18/5
+
+3. Relative Speed:
+   - Same direction: Subtract speeds
+   - Opposite direction: Add speeds
+
+4. Average Speed:
+   - If equal distance covered at two different speeds:
+     Avg Speed = (2 × x × y) / (x + y)
+     where x and y are the two speeds.
+
+5. Train Problems:
+   - Time to cross a pole = Length of train / Speed
+   - Time to cross a platform = (Length of train + Length of platform) / Speed
+   - Two trains crossing each other (same/opposite direction) use relative speed.
+
+6. Boat and Stream:
+   - Speed downstream = Boat speed + Stream speed
+   - Speed upstream = Boat speed - Stream speed
+   - Time = Distance / Effective speed
+
+7. Chase Problems:
+   - Time to catch = Lead / Relative speed
+
+8. Meeting Point:
+   - If two objects move toward each other:
+     Time = Distance between them / (Speed of A + Speed of B)
+
+9. Circular Track:
+   - Time to meet = Circumference / Relative speed
+
+10. General Tips:
+   - Always keep units consistent (convert minutes to hours, meters to km if needed)
+   - Be careful with direction: for relative speed, direction matters
+   - Speed and time are inversely proportional when distance is constant
+
+===============================
+

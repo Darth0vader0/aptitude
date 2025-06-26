@@ -1,0 +1,46 @@
+===========================================
+Time, Speed, and Distance – 20 Placement-Level Questions
+===========================================
+
+1. A train 300 m long passes a pole in 18 seconds. Find the speed of the train in km/hr.
+
+2. A man covers a distance of 60 km at 12 km/hr and returns at 10 km/hr. What is his average speed for the entire journey?
+
+3. A boat goes 24 km downstream in 3 hours and returns upstream in 4 hours. Find the speed of the boat in still water and of the stream.
+
+4. A car covers a certain distance in 4 hours. If it had moved 10 km/hr faster, it would have taken 48 minutes less. Find the distance.
+
+5. A train passes a platform 120 meters long in 16 seconds and a man in 10 seconds. Find the speed of the train.
+
+6. A man walks a certain distance at 5 km/hr and returns at 4 km/hr. If the total time taken is 4.5 hours, find the one-way distance.
+
+7. A man can swim 10 km downstream in 2 hours and upstream in 5 hours. What is the speed of the stream?
+
+8. Two trains are moving in opposite directions at speeds of 54 km/hr and 72 km/hr. If a person in one train crosses the other train in 12 seconds, find the length of the second train (in meters).
+
+9. A train passes a 200 m long bridge in 20 seconds and a 300 m long platform in 30 seconds. Find the length and speed of the train.
+
+10. A man driving a car at 72 km/hr reaches his office 10 minutes late. If he had driven at 90 km/hr, he would have been 5 minutes early. Find the distance to his office.
+
+11. A cyclist covers a distance in 3 hours at 24 km/hr. If he wants to cover the same distance in 2 hours, what should be his speed?
+
+12. A train crosses a 100 m long platform in 20 seconds and a man in 10 seconds. Find the speed and length of the train.
+
+13. A person can row 36 km downstream in 3 hours and return upstream in 6 hours. Find the speed of the boat and of the current.
+
+14. A man can cover 45 km in 6 hours. He covers half the distance at 4 km/hr and the rest at a faster speed. Find the faster speed.
+
+15. A train running at 60 km/hr overtakes a person walking at 6 km/hr in 10 seconds. Find the length of the train.
+
+16. Two friends start from the same place and walk in opposite directions. One walks at 4 km/hr and the other at 6 km/hr. In how many hours will they be 40 km apart?
+
+17. A train of 400 meters long is moving at 54 km/hr. How much time will it take to pass a platform 100 meters long?
+
+18. A train 600 m long takes 36 seconds to cross a tunnel and 24 seconds to cross a man. Find the length of the tunnel.
+
+19. Two trains are 240 m and 160 m long. They are running in the same direction, and the faster train passes the slower in 24 seconds. If the speed of the slower train is 54 km/hr, find the speed of the faster train.
+
+20. A car takes 2 hours to cover a distance at a certain speed. If the speed is increased by 15 km/hr, it takes 48 minutes less. Find the original speed.
+
+===========================================
+

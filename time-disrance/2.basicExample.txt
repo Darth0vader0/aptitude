@@ -1,0 +1,41 @@
+Time, Speed, and Distance – 20 Basic Questions (TXT Style)
+
+1. A car covers 120 km in 3 hours. What is its speed?
+
+2. A train runs at 60 km/hr. How far will it go in 45 minutes?
+
+3. A cyclist travels at 18 km/hr. How much time will he take to cover 54 km?
+
+4. A bus covers 160 km at a speed of 40 km/hr. Find the time taken.
+
+5. A man walks at 5 km/hr. How far will he walk in 2 hours 30 minutes?
+
+6. A car travels 90 km in 2 hours. Find its speed.
+
+7. A train covers 300 meters in 20 seconds. Find its speed in km/hr.
+
+8. A boy runs at 10 m/s. How much distance will he cover in 4 minutes?
+
+9. Convert 54 km/hr into m/s.
+
+10. Convert 15 m/s into km/hr.
+
+11. A car travels for 2 hours at 60 km/hr and 3 hours at 80 km/hr. Find the total distance covered.
+
+12. A train is 400 meters long and passes a pole in 40 seconds. Find its speed in km/hr.
+
+13. A train 120 m long crosses a platform 180 m long in 20 seconds. Find the speed of the train.
+
+14. Two cars start from the same point. One travels at 60 km/hr and the other at 80 km/hr. How far apart will they be after 2 hours?
+
+15. Two people start walking toward each other from 100 km apart. One walks at 4 km/hr, the other at 6 km/hr. After how much time will they meet?
+
+16. A man can swim at 5 km/hr in still water. If the speed of the current is 2 km/hr, what is his speed downstream?
+
+17. A boat can go 30 km downstream in 2 hours. What is its downstream speed?
+
+18. A train moving at 72 km/hr crosses another train of same length in 20 seconds. Find the length of each train.
+
+19. A boy cycles 40 km at 20 km/hr and returns at 10 km/hr. Find the average speed for the whole journey.
+
+20. A man walks at 4 km/hr for 1 hour and then at 6 km/hr for 2 hours. Find his average speed for the entire journey.
