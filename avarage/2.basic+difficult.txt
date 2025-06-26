@@ -1,0 +1,78 @@
+=======================================
+AVERAGES – BASIC AND DIFFICULT EXAMPLES
+=======================================
+
+===============
+🔹 BASIC EXAMPLES (1–15)
+===============
+
+1. Find the average of 5, 10, 15, 20, and 25.
+
+2. The average of 8 numbers is 12. Find the sum of all the numbers.
+
+3. The average of 4, 7, and 10 is increased by 2. What is the new average?
+
+4. Average of 5 consecutive even numbers is 36. Find the smallest number.
+
+5. A student scores 80, 76, 90, and 84 in four subjects. How much must he score in the fifth subject to make the average 85?
+
+6. Average of three numbers is 30. Two of them are 25 and 35. Find the third number.
+
+7. A cricketer’s average score after 10 innings is 42. If his total score in the next 2 innings is 86, what will be his new average?
+
+8. The average age of 5 people is 30. If one person leaves and the new average becomes 28, what is the age of the person who left?
+
+9. Find the average of first 10 natural numbers.
+
+10. The average of two numbers is 45. If one number is 60, find the other.
+
+11. The average marks of 6 students is 72. If one new student joins, the average becomes 75. Find the marks of the new student.
+
+12. Find the average of first five odd numbers.
+
+13. The average weight of 6 boxes is 20 kg. One box weighing 24 kg is replaced by a 12 kg box. Find the new average.
+
+14. Average temperature on 5 days is 29°C. If the temperature on the sixth day is 31°C, what is the average temperature of 6 days?
+
+15. A batsman has an average of 50 in 8 matches. If he scores 90 in the next match, what is his new average?
+
+=================
+🔸 DIFFICULT EXAMPLES (16–30)
+=================
+
+16. The average age of 40 employees is 35. Later, 5 new employees join with average age 25. Find the new average.
+
+17. The average salary of 25 people is ₹40,000. Later it was found that one person’s salary was wrongly entered as ₹50,000 instead of ₹30,000. Find the correct average.
+
+18. The average of 5 numbers is 30. If one number is removed, the average becomes 28. Find the number that was removed.
+
+19. The average of a group of 10 numbers is 47. The average of the first four numbers is 45 and that of the next four is 50. Find the average of the last two numbers.
+
+20. The average of 6 students' ages is 15.5 years. If one student of age 16.5 years leaves and another joins, the average becomes 15.75 years. Find the age of the new student.
+
+21. In a group of 30 people, the average age is 35. A new person joins, and the average increases to 35.5. Find the age of the new person.
+
+22. The average of 5 consecutive odd numbers is 41. Find the numbers.
+
+23. The average of 7 consecutive numbers is 30. Find the smallest number.
+
+24. A student scored an average of 70 in 4 exams. If the maximum score per exam is 100, how much minimum must he score in the fifth to increase the average to 75?
+
+25. The average of 4 numbers is x. If one number is increased by 10, how much will the average increase?
+
+26. The average of 3 numbers A, B, and C is 30. The average of A and B is 27. Find C.
+
+27. A class has 40 students. Average score of 30 boys is 70 and that of 10 girls is 80. Find the class average.
+
+28. The average of 50 numbers is 38. If two numbers, 45 and 55, are wrongly entered as 54 and 65, find the correct average.
+
+29. A person travels at 60 km/hr for half the distance and 40 km/hr for the other half. Find the average speed.
+
+30. The average weight of 5 men is 70 kg. A new person replaces one of them, and the average becomes 72 kg. If the weight of the replaced person was 68 kg, find the weight of the new person.
+
+=======================================
+End of Averages – Full Practice File
+=======================================
+
+
+//thats all can be asked in avarages topic
