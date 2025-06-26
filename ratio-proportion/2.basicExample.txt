@@ -1,0 +1,47 @@
+======================================
+Ratio and Proportion – 20 Basic Questions
+======================================
+
+1. Divide ₹600 between A and B in the ratio 2:3.
+
+2. If the ratio of boys to girls in a class is 3:2 and there are 30 boys, how many girls are there?
+
+3. Find the ratio of 2 kg to 500 grams.
+
+4. Find the ratio of 75 cm to 2 meters.
+
+5. If A:B = 3:4 and B:C = 2:5, find A:B:C.
+
+6. A sum of ₹400 is divided between P and Q in the ratio 5:3. How much does each get?
+
+7. If a:b = 4:5, find the duplicate ratio.
+
+8. If a:b = 3:2, what is the inverse ratio?
+
+9. Two numbers are in the ratio 7:5 and their sum is 96. Find the numbers.
+
+10. If x:y = 8:3 and y:z = 4:9, find x:y:z.
+
+11. The ratio of ages of two persons is 5:3. After 10 years, the ratio becomes 7:5. Find their present ages.
+
+12. If A:B = 2:3 and B:C = 4:5, find the compound ratio A:C.
+
+13. A mixture contains milk and water in the ratio 7:3. If there are 14 liters of milk, find the amount of water.
+
+14. If 3x = 4y, find the ratio x:y.
+
+15. If A:B = 2:5, how much should be added to each so that the new ratio becomes 4:7?
+
+16. Divide 540 in the ratio 4:5:1.
+
+17. Two numbers are in the ratio 5:6. If their LCM is 300, find the numbers.
+
+18. If the ratio of speeds of two cars is 5:4, and the faster car covers 100 km in 2 hours, how much distance will the slower car cover in 2 hours?
+
+19. The income of two persons is in the ratio 4:5 and their expenditures are in the ratio 2:3. Who saves more?
+
+20. Find the fourth proportional to 3, 9, and 12.
+
+======================================
+End of Basic Questions
+======================================

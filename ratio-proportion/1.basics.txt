@@ -1,0 +1,82 @@
+===============================
+RATIO AND PROPORTION – BASICS
+===============================
+
+🔹 1. Ratio:
+- A ratio is a comparison of two quantities of the same kind using division.
+- If a and b are two numbers, then their ratio is written as a : b or a/b.
+
+Examples:
+- Ratio of 8 to 4 is 8:4 = 2:1
+- Ratio of 2 kg to 500 g = 2000g:500g = 4:1
+
+🔹 2. Properties of Ratio:
+- Ratio has no units.
+- Ratios must be compared in the same units.
+- Multiplying or dividing both terms by the same non-zero number doesn’t change the ratio.
+
+🔹 3. Proportion:
+- A proportion states that two ratios are equal.
+- a : b = c : d ⇒ a/b = c/d ⇒ ad = bc
+
+Here, a, b, c, d are in proportion.
+
+🔹 4. Continued Proportion:
+- If a : b = b : c, then b² = ac
+- Then a, b, c are in continued proportion.
+
+🔹 5. Mean and Extreme Terms:
+In a : b = c : d,
+- a and d are called extremes,
+- b and c are called means.
+
+So, product of extremes = product of means ⇒ a × d = b × c
+
+🔹 6. Duplicate, Triplicate and Subduplicate Ratios:
+- Duplicate ratio of a : b = a² : b²
+- Triplicate ratio of a : b = a³ : b³
+- Subduplicate ratio = √a : √b
+
+🔹 7. Inverse Ratio:
+- Inverse of a : b = b : a
+
+🔹 8. Compound Ratio:
+- Compound ratio of a : b and c : d = (a × c) : (b × d)
+
+🔹 9. Ratio of Quantities:
+- To compare speeds, weights, ages, amounts, time, prices, etc.
+
+🔹 10. Increase or Decrease in Ratio:
+If a quantity is increased or decreased by x%, then:
+- New ratio = original × (1 ± x/100)
+
+========================
+APPLICATIONS OF RATIO
+========================
+
+✅ 1. Income and Expenditure
+✅ 2. Mixture and Alligation
+✅ 3. Ages and Time Problems
+✅ 4. Sharing profits in partnership
+✅ 5. Time, Speed and Distance comparisons
+✅ 6. Simplifying complex fractions
+✅ 7. Dividing amounts in a ratio
+
+===========================
+Example Shortcuts to Remember:
+===========================
+
+1. If a : b = m : n, then:
+   - a = m × x, b = n × x for some x
+   - Sum = a + b = x(m + n)
+
+2. To divide ₹A in ratio m : n ⇒
+   - First part = A × m / (m + n)
+   - Second part = A × n / (m + n)
+
+3. When two numbers are in ratio a : b and their sum is S:
+   - The numbers are (a × S)/(a + b) and (b × S)/(a + b)
+
+===============================
+End of Ratio & Proportion Basics
+===============================

@@ -1,0 +1,47 @@
+============================================
+Ratio and Proportion – 20 Difficult Questions
+============================================
+
+1. The ratio of incomes of A and B is 5:4, and the ratio of their expenditures is 3:2. If A saves ₹2,500 and B saves ₹2,000, find their incomes.
+
+2. The ratio of ages of A and B is 4:3. After 6 years, the ratio becomes 9:7. Find their present ages.
+
+3. A sum of ₹1,860 is divided among A, B, and C such that A gets 2/5 of what B gets, and B gets 3/4 of what C gets. Find the share of each.
+
+4. The ratio of the number of men to women in a company is 5:7. If 15 men leave and 15 women join, the ratio becomes 2:3. Find the original number of men and women.
+
+5. The monthly incomes of A and B are in the ratio 3:4, and their monthly expenses are in the ratio 4:5. If each of them saves ₹5,000 per month, find their monthly incomes.
+
+6. The ratio of the number of boys to girls in a class is 7:5. If 8 more boys join and 4 girls leave, the new ratio becomes 3:2. Find the original number of boys and girls.
+
+7. A and B are partners in a business. A contributes ₹10,000 and B contributes ₹15,000. After 3 months, A adds ₹5,000 more while B withdraws ₹5,000. Find the profit share ratio after 1 year.
+
+8. The sides of a triangle are in the ratio 5:6:7. If the perimeter is 54 cm, find the length of each side.
+
+9. In a mixture of 80 liters, the ratio of milk to water is 5:3. How much water should be added to make the ratio 5:4?
+
+10. A can do a work in 18 days, B in 24 days, and C in 36 days. If they work together and share profit in ratio of work done, find the share of each if profit is ₹5,400.
+
+11. Three numbers are in the ratio 2:3:4. The sum of the largest and smallest number is 154. Find the numbers.
+
+12. If A:B = 2:3 and B:C = 4:5, find the ratio A:C and also the compound ratio A:B:C.
+
+13. A sum is divided among A, B, and C in the ratio 1/2 : 1/3 : 1/4. If the total sum is ₹810, find the share of each.
+
+14. If x : y = 3 : 4 and y : z = 5 : 6, what is x : z?
+
+15. If a : b = 5 : 6 and b : c = 3 : 4, find the ratio a : b : c.
+
+16. The ratio between the ages of A and B is 5:7 and that of B and C is 4:5. If the sum of the ages is 147, find the age of each.
+
+17. In a class, the ratio of boys to girls is 4:3. If 6 boys leave and 6 girls join, the ratio becomes 2:3. Find the original number of boys and girls.
+
+18. The number of red, blue, and green balls in a box are in the ratio 4:5:6. If there are 45 blue balls, find the total number of balls.
+
+19. If a:b = 2:3, b:c = 4:5, and c:d = 6:7, find the ratio a:b:c:d.
+
+20. A certain amount is divided between A and B in the ratio 5:7. If A’s share is increased by ₹240, the new ratio becomes 3:4. Find the original amount.
+
+============================================
+End of Difficult Ratio and Proportion
+============================================

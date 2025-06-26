@@ -1,0 +1,47 @@
+=================================================
+Ratio and Proportion – 20 Placement-Ready Questions
+=================================================
+
+1. Divide ₹1,800 among A, B, and C in the ratio 2:3:4. What is C’s share?
+
+2. If the ratio of ages of A and B is 5:3 and the difference in their ages is 12 years, find their ages.
+
+3. A:B = 2:3 and B:C = 4:5. Find A:B:C.
+
+4. The incomes of A, B, and C are in the ratio 4:5:6. Their expenditures are in the ratio 6:5:4. If A saves ₹800, find the savings of B and C.
+
+5. Two numbers are in the ratio 3:4. If their LCM is 240, find the numbers.
+
+6. A recipe requires ingredients in the ratio 2:5:3. If 1.2 kg of the first ingredient is used, how much of the second and third ingredients are needed?
+
+7. If A earns ₹6,000 per month and B earns ₹7,500 per month, find the ratio of their earnings and also inverse ratio.
+
+8. The ratio of speed of A to B is 3:4. A takes 60 minutes to reach a destination. How long will B take?
+
+9. The angles of a triangle are in the ratio 2:3:4. Find the angles.
+
+10. A sum is divided between two friends in the ratio 7:9. If the difference of their shares is ₹120, what is the total sum?
+
+11. A and B enter into a partnership with ₹20,000 and ₹30,000 respectively. After 4 months, A adds ₹10,000 more. Find their profit ratio after 1 year.
+
+12. If the cost price and selling price of an item are in the ratio 5:6, find the profit percentage.
+
+13. The ages of A, B, and C are in the ratio 3:5:7. If the sum of their ages is 75, find each person’s age.
+
+14. The ratio of length to breadth of a rectangle is 5:2. If the perimeter is 56 m, find the area.
+
+15. A:B = 3:4 and C:D = 5:6. Find (A×C):(B×D).
+
+16. In a college, the ratio of students who passed to failed is 7:3. If 90 students passed, how many failed?
+
+17. A number is divided in the ratio 2:3 and then the larger part is further divided in the ratio 1:2. What is the ratio of the three resulting parts?
+
+18. The weights of two bags are in the ratio 5:6. If 4 kg is added to each, the new ratio becomes 7:8. Find the original weights.
+
+19. The ratio of marked price to cost price is 7:5. If a discount of 20% is given on marked price, what is the profit percentage?
+
+20. In a college, the ratio of boys to girls is 4:5. If 20 boys leave and 10 girls join, the new ratio becomes 3:5. Find the original number of boys and girls.
+
+=================================================
+End of Placement-Ready Ratio and Proportion Set
+=================================================
