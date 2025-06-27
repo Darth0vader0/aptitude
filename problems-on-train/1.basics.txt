@@ -1,0 +1,69 @@
+======================================
+PROBLEMS ON TRAINS – BASICS & FORMULAS
+======================================
+
+🚆 Train-Based Problems focus on:
+✅ Time, Speed, and Distance
+✅ Relative speed when two bodies move
+✅ Length of train/platform/object
+✅ Conversion between units (km/hr ↔ m/s)
+
+=====================
+🔸 BASIC FORMULAS
+=====================
+
+1. **Speed = Distance / Time**
+2. **Distance = Speed × Time**
+3. **Time = Distance / Speed**
+
+👉 Convert km/hr to m/s: multiply by **5/18**  
+👉 Convert m/s to km/hr: multiply by **18/5**
+
+=====================
+🔸 BASIC CASES
+=====================
+
+📌 Case 1: Train passing a pole/person
+- Time = Length of train / Speed
+
+📌 Case 2: Train passing a platform (or bridge)
+- Time = (Length of train + Length of platform) / Speed
+
+📌 Case 3: Two trains moving in **same direction**
+- Relative speed = Difference of their speeds
+
+📌 Case 4: Two trains moving in **opposite direction**
+- Relative speed = Sum of their speeds
+
+📌 Case 5: Train overtaking or crossing another moving object (e.g. car, man, train)
+- Use relative speed = |S₁ - S₂| if same direction
+- Relative speed = S₁ + S₂ if opposite direction
+
+============================
+🔸 UNIT CONVERSIONS
+============================
+
+1 km/hr = 5/18 m/s  
+1 m/s = 18/5 km/hr
+
+Example:
+- 90 km/hr = 90 × 5/18 = 25 m/s
+
+===============================
+🔸 TYPICAL QUESTION PATTERNS
+===============================
+
+1. Train passes a stationary object — find speed or time
+2. Train crosses a platform — find length/speed
+3. Two trains cross each other (same or opposite direction)
+4. A train overtakes a walking man/bike — find speed of train
+5. Train crosses a bridge or tunnel
+6. Time taken to cross a man running in opposite direction
+
+=========================
+🔸 IMPORTANT TIPS
+=========================
+
+✔ Always **convert speeds** to m/s when distances are in meters  
+✔ Always **add lengths** when object has length (e.g. platform, bridge)  
+✔ Use **relative speed** logic when

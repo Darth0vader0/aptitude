@@ -1,0 +1,47 @@
+=======================================
+PROBLEMS ON TRAINS – 20 BASIC QUESTIONS
+=======================================
+
+1. A train 180 meters long crosses a pole in 9 seconds. Find its speed in km/hr.
+
+2. A train 200 meters long takes 10 seconds to cross a man walking at 6 km/hr in the same direction. Find the speed of the train.
+
+3. A train 150 meters long takes 12 seconds to cross a platform 90 meters long. Find the speed of the train in km/hr.
+
+4. A train passes a 120-meter-long platform in 20 seconds and a pole in 10 seconds. Find the length of the train.
+
+5. A train 360 meters long is running at a speed of 72 km/hr. How much time will it take to cross a pole?
+
+6. A train running at 54 km/hr takes 20 seconds to cross a bridge. If the length of the train is 120 meters, find the length of the bridge.
+
+7. A train 280 meters long takes 36 seconds to cross a platform 220 meters long. Find the speed of the train in m/s.
+
+8. Two trains of lengths 150 meters and 180 meters are running on parallel tracks in opposite directions at 54 km/hr and 72 km/hr respectively. In how much time will they cross each other?
+
+9. A train 240 meters long crosses a man standing on the platform in 12 seconds. Find the speed of the train in km/hr.
+
+10. A 300-meter-long train passes a tunnel in 30 seconds at a speed of 60 km/hr. Find the length of the tunnel.
+
+11. A train takes 30 seconds to cross a 200-meter-long platform and 18 seconds to cross a signal pole. Find the length of the train.
+
+12. A train 350 meters long is running at 90 km/hr. In what time will it cross a man running at 10 km/hr in the same direction?
+
+13. A train crosses a 100-meter-long platform in 20 seconds and a man standing on the platform in 12 seconds. Find the length of the train.
+
+14. A train of unknown length passes a 120-meter-long bridge in 15 seconds. Its speed is 60 km/hr. Find the length of the train.
+
+15. Two trains 160 m and 140 m long are running in the same direction at 45 km/hr and 30 km/hr respectively. How long will it take the faster train to pass the slower one?
+
+16. A train passes a pole in 15 seconds and a platform 100 meters long in 25 seconds. Find the length of the train.
+
+17. A train is moving at 36 km/hr. It crosses a man in 10 seconds. Find the length of the train.
+
+18. A train running at 60 km/hr passes another train of length 240 m running at 48 km/hr in the same direction in 36 seconds. Find the length of the first train.
+
+19. A train running at 90 km/hr crosses a 150 m long platform in 12 seconds. Find the length of the train.
+
+20. A train running at 108 km/hr takes 18 seconds to cross a bridge. If the train is 360 meters long, find the length of the bridge.
+
+=======================================
+End of Basic Train Questions
+=======================================

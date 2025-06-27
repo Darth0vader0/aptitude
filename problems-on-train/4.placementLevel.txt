@@ -1,0 +1,47 @@
+=========================================================
+PROBLEMS ON TRAINS – 20 TRICKY + PLACEMENT-READY QUESTIONS
+=========================================================
+
+1. A 360-meter-long train takes 12 seconds to pass a man running at 6 km/hr in the opposite direction. Find the speed of the train.
+
+2. A train takes 10 seconds to cross a pole and 24 seconds to cross a platform 280 meters long. Find the length of the train.
+
+3. Two trains are moving in opposite directions at speeds of 56 km/hr and 72 km/hr. A man in the slower train passes the faster train in 10 seconds. Find the length of the faster train.
+
+4. A train 240 meters long crosses a man walking in the direction of train in 30 seconds and a platform in 40 seconds. Find the length of the platform.
+
+5. A train running at 54 km/hr takes 20 seconds to pass another train running in the same direction at 36 km/hr and having half its length. Find the length of the slower train.
+
+6. A 300-meter-long train crosses a tunnel in 30 seconds. If the speed of the train is 72 km/hr, find the length of the tunnel.
+
+7. Two trains 120 m and 180 m long are running in the same direction at 54 km/hr and 36 km/hr respectively. Find the time taken by the faster train to cross the slower train.
+
+8. A train 350 m long passes a man walking in the opposite direction at 5 km/hr in 18 seconds. Find the speed of the train in km/hr.
+
+9. A train passes a pole in 15 seconds and another train of same length in 30 seconds while moving in the opposite direction. Find the length of each train.
+
+10. A train running at 90 km/hr crosses a platform 240 m long in 20 seconds. Find the length of the train.
+
+11. A train crosses two persons walking in opposite directions at 4 km/hr and 6 km/hr in 10 seconds and 8 seconds respectively. Find the length and speed of the train.
+
+12. A train crosses a 100 m long platform in 15 seconds and a 120 m long train in 20 seconds. Find the length of the first train.
+
+13. A train takes 6 seconds to pass a pole and 20 seconds to cross a 210 m long bridge. Find the speed of the train.
+
+14. A train running at 60 km/hr overtakes a bike at 40 km/hr in 18 seconds. Find the length of the train.
+
+15. Two trains running in opposite directions cross each other in 12 seconds. If the length of one train is 180 m and their speed ratio is 3:2, find the length of the other train.
+
+16. A train 480 m long takes 36 seconds to cross a man walking at 6 km/hr opposite to the direction of train. Find the speed of the train.
+
+17. A train takes 25 seconds to cross a 200 m long platform and 15 seconds to cross a pole. Find the speed and length of the train.
+
+18. A train 270 m long crosses a running man in 9 seconds. If the man is moving at 3 m/s in the opposite direction, what is the speed of the train?
+
+19. Two trains of equal lengths take 12 seconds and 18 seconds respectively to cross a pole. If they run in opposite directions, how long will they take to cross each other?
+
+20. A train of 600 m takes 1 minute to cross a tunnel. If the speed of the train is 72 km/hr, find the length of the tunnel.
+
+=========================================================
+End of Tricky + Placement-Ready Train Problems
+=========================================================
