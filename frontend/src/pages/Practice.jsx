@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Clock, Calculator, Percent, TrendingUp, Users, Calendar, BookOpen } from 'lucide-react';
+import { Clock, Calculator, Percent, TrendingUp,CarFront,Train,Users2,Pipette,LucideNetwork,Handshake, Users, Calendar, BookOpen } from 'lucide-react';
 import Card from '../components/UI/Card';
 import Button from '../components/UI/Button-2';
 import Badge from '../components/UI/Badge';
@@ -11,13 +11,20 @@ const Practice = () => {
 
   const topics = [
     { id: 'time-work', name: 'Time & Work', icon: Clock, count: 45 },
-    { id: 'ratio', name: 'Ratio & Proportion', icon: Calculator, count: 38 },
+    { id: 'ratio-proportion', name: 'Ratio & Proportion', icon: Calculator, count: 38 },
     { id: 'percentage', name: 'Percentage', icon: Percent, count: 42 },
     { id: 'profit-loss', name: 'Profit & Loss', icon: TrendingUp, count: 35 },
-    { id: 'simple-interest', name: 'Simple Interest', icon: Calendar, count: 28 },
-    { id: 'compound-interest', name: 'Compound Interest', icon: Calendar, count: 32 },
-    { id: 'averages', name: 'Averages', icon: TrendingUp, count: 25 },
-    { id: 'mixtures', name: 'Mixtures & Alligations', icon: Calculator, count: 30 },
+    { id: 'simple-compound-interest', name: 'Simple Interest', icon: Calendar, count: 28 },
+    { id: 'average', name: 'Averages', icon: TrendingUp, count: 25 },
+    { id: 'alligation-and-mixtures', name: 'Mixtures & Alligations', icon: Pipette, count: 30 },
+    { id: 'boat-streams', name: 'Boat & Streams', icon: Calculator, count: 30 },
+    { id: 'calendar', name: 'Calendar', icon: Calendar, count: 30 },
+    { id: 'partnership', name: 'Partnership', icon: Handshake, count: 30 },
+    { id: 'pipe-cisterns', name: 'Pipe & Cisterns', icon: LucideNetwork, count: 30 },
+    { id: 'problem-on-ages', name: 'Ages', icon: Users2, count: 30 },
+    { id: 'problem-on-train', name: 'Trains', icon: Train, count: 30 },
+    { id: 'time-distance', name: 'Time & Distance', icon: CarFront, count: 30 },
+    { id: 'clock', name: 'Clocks', icon: Clock, count: 30 },
   ];
 
   const levels = [
@@ -111,7 +118,51 @@ const Practice = () => {
 
               {/* Level Tabs */}
               <div className="flex flex-wrap gap-2">
-                {levels.map((level) => (
+                {selectedTopic=="average"?(
+                  <>
+                   <button
+                    key={'1'}
+                    onClick={() => setSelectedLevel('basics')}
+                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                      selectedLevel === 'basics'
+                        ? 'bg-primary-600 text-white'
+                        : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+                    }`}
+                  >
+                    Basics
+                  </button>
+                   <button
+                    key={'2'}
+                    onClick={() => setSelectedLevel('basic+difficult')}
+                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                      selectedLevel === 'baisc+difficult'
+                        ? 'bg-primary-600 text-white'
+                        : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+                    }`}
+                  >
+                    Basic & difficult
+                  </button>
+                  </>
+                  
+                ):selectedTopic==='problem-on-ages'?
+              levels
+                    .filter((level) => level.id !== 'basics')
+                    .map((level) => (
+                      <button
+                        key={level.id}
+                        onClick={() => setSelectedLevel(level.id)}
+                        className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                          selectedLevel === level.id
+                            ? 'bg-primary-600 text-white'
+                            : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+                        }`}
+                      >
+                        {level.name}
+                      </button>
+                    
+                ))
+                :(
+                  levels.map((level) => (
                   <button
                     key={level.id}
                     onClick={() => setSelectedLevel(level.id)}
@@ -123,7 +174,8 @@ const Practice = () => {
                   >
                     {level.name}
                   </button>
-                ))}
+                ))
+                )}
               </div>
 
               {selectedLevelData && (
