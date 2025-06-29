@@ -1,13 +1,22 @@
 import React, { useState } from 'react';
-import { Clock, Calculator, Percent, TrendingUp,CarFront,Train,Users2,Pipette,LucideNetwork,Handshake, Users, Calendar, BookOpen } from 'lucide-react';
+import { Clock, Calculator, Percent, TrendingUp, CarFront, Train, Users2, Pipette, LucideNetwork, Handshake, Users, Calendar, BookOpen } from 'lucide-react';
 import Card from '../components/UI/Card';
 import Button from '../components/UI/Button-2';
 import Badge from '../components/UI/Badge';
-
+const backendUrl = import.meta.env.VITE_BACKEND_URL;
 const Practice = () => {
   const [selectedTopic, setSelectedTopic] = useState('time-work');
   const [selectedLevel, setSelectedLevel] = useState('basics');
   const [showAnswers, setShowAnswers] = useState(false);
+  const [questions, setQuestions] = useState([]);
+
+  const fetchQuestions = async (topic, level) => {
+    // Simulate fetching questions based on topic and level
+    // In a real application, you would replace this with an API call
+    const result = await fetch(`${backendUrl}/questions?topic=${topic}&level=${level}`);
+    const data = await result.json();
+ 
+  };
 
   const topics = [
     { id: 'time-work', name: 'Time & Work', icon: Clock, count: 45 },
@@ -34,32 +43,17 @@ const Practice = () => {
     { id: 'placement-ready', name: 'Placement Ready', description: 'Company-level questions' },
   ];
 
-  const dummyQuestions = [
-    {
-      id: 1,
-      question: "A can complete a work in 12 days, and B can complete the same work in 15 days. How many days will they take to complete the work together?",
-      options: ["6 days", "6.7 days", "7 days", "8 days"],
-      correct: 1,
-      explanation: "Combined rate = 1/12 + 1/15 = 9/60 = 3/20. So they complete the work in 20/3 = 6.67 days."
-    },
-    {
-      id: 2,
-      question: "If A is 20% more efficient than B, and B can complete a work in 30 days, how many days will A take?",
-      options: ["24 days", "25 days", "26 days", "28 days"],
-      correct: 1,
-      explanation: "If B takes 30 days, A being 20% more efficient will take 30/1.2 = 25 days."
-    },
-    {
-      id: 3,
-      question: "15 men can complete a work in 20 days. How many men are needed to complete the same work in 12 days?",
-      options: ["20 men", "22 men", "25 men", "28 men"],
-      correct: 2,
-      explanation: "Total work = 15 × 20 = 300 man-days. To complete in 12 days: 300/12 = 25 men needed."
-    },
-  ];
+
+
 
   const selectedTopicData = topics.find(t => t.id === selectedTopic);
   const selectedLevelData = levels.find(l => l.id === selectedLevel);
+
+  // Reset level to 'basics' when topic changes
+  const handleTopicChange = (topicId) => {
+    setSelectedTopic(topicId);
+    setSelectedLevel('basics');
+  };
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
@@ -76,11 +70,11 @@ const Practice = () => {
           <div className="lg:w-80 flex-shrink-0">
             <Card className="sticky top-24">
               <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Topics</h2>
-              <div className="space-y-2">
+              <div className="space-y-2 max-h-[70vh] overflow-y-auto pr-2">
                 {topics.map((topic) => (
                   <button
                     key={topic.id}
-                    onClick={() => setSelectedTopic(topic.id)}
+                    onClick={() => handleTopicChange(topic.id)}
                     className={`w-full text-left p-3 rounded-xl transition-all duration-200 flex items-center justify-between ${
                       selectedTopic === topic.id
                         ? 'bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300'
@@ -118,34 +112,33 @@ const Practice = () => {
 
               {/* Level Tabs */}
               <div className="flex flex-wrap gap-2">
-                {selectedTopic=="average"?(
+                {selectedTopic === "average" ? (
                   <>
-                   <button
-                    key={'1'}
-                    onClick={() => setSelectedLevel('basics')}
-                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-                      selectedLevel === 'basics'
-                        ? 'bg-primary-600 text-white'
-                        : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
-                    }`}
-                  >
-                    Basics
-                  </button>
-                   <button
-                    key={'2'}
-                    onClick={() => setSelectedLevel('basic+difficult')}
-                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-                      selectedLevel === 'baisc+difficult'
-                        ? 'bg-primary-600 text-white'
-                        : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
-                    }`}
-                  >
-                    Basic & difficult
-                  </button>
+                    <button
+                      key={'1'}
+                      onClick={() => setSelectedLevel('basics')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        selectedLevel === 'basics'
+                          ? 'bg-primary-600 text-white'
+                          : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+                      }`}
+                    >
+                      Basics
+                    </button>
+                    <button
+                      key={'2'}
+                      onClick={() => setSelectedLevel('basic+difficult')}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        selectedLevel === 'basic+difficult'
+                          ? 'bg-primary-600 text-white'
+                          : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+                      }`}
+                    >
+                      Basic & difficult
+                    </button>
                   </>
-                  
-                ):selectedTopic==='problem-on-ages'?
-              levels
+                ) : selectedTopic === 'problem-on-ages' ? (
+                  levels
                     .filter((level) => level.id !== 'basics')
                     .map((level) => (
                       <button
@@ -159,22 +152,21 @@ const Practice = () => {
                       >
                         {level.name}
                       </button>
-                    
-                ))
-                :(
+                    ))
+                ) : (
                   levels.map((level) => (
-                  <button
-                    key={level.id}
-                    onClick={() => setSelectedLevel(level.id)}
-                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-                      selectedLevel === level.id
-                        ? 'bg-primary-600 text-white'
-                        : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
-                    }`}
-                  >
-                    {level.name}
-                  </button>
-                ))
+                    <button
+                      key={level.id}
+                      onClick={() => setSelectedLevel(level.id)}
+                      className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                        selectedLevel === level.id
+                          ? 'bg-primary-600 text-white'
+                          : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
+                      }`}
+                    >
+                      {level.name}
+                    </button>
+                  ))
                 )}
               </div>
 

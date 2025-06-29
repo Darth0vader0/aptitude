@@ -1,0 +1,36 @@
+# Aptitude Practice Platform
+
+AptiPrep is a free, open-source platform for practicing and mastering aptitude questions, designed for students preparing for competitive exams and placements. The project provides categorized, high-quality practice questions and a modern web frontend for interactive learning.
+
+---
+
+## Features
+
+- **Topic-wise Practice:** Questions organized by topics such as Ratio & Proportion, Simple & Compound Interest, Partnership, Profit & Loss, Time & Work, and more.
+- **Difficulty Levels:** Each topic includes basic, intermediate, and placement-level questions.
+- **Interactive Frontend:** Modern React-based web app for practicing, generating tests, and tracking results.
+- **Open Source:** Contributions are welcome from the community.
+---
+
+- Each topic folder contains `.txt` files with categorized questions (basics, examples, placement level, etc.).
+- The `frontend/` directory contains the React web application.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (for frontend)
+- npm or yarn
+
+### Running the Frontend
+
+1. Navigate to the `frontend` directory:
+   ```sh
+   cd frontend2. Install dependencies:
+   ```sh
+   npm install
+2. Run the development server:
+   ```sh
+   npm run dev
